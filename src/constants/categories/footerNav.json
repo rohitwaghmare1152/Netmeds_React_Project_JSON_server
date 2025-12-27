@@ -1,0 +1,146 @@
+{
+	"links": [
+		{
+			"id": 1,
+			"name": "Home",
+			"icon": "/images/home/icons/home.png",
+			"path": "/"
+		},
+		{
+			"id": 2,
+			"name": "Categories",
+			"icon": "/images/home/icons/footer-categories.png",
+			"path": "/sections/all-categories"
+		},
+		{
+			"id": 3,
+			"name": "Account",
+			"icon": "/images/home/icons/account.png",
+			"path": "/sections/my-account"
+		},
+		{
+			"id": 4,
+			"name": "Lab Tests",
+			"icon": "/images/home/icons/footer-lab.png",
+			"path": "/sections/lab-test"
+		},
+		{
+			"id": 5,
+			"name": "Cart",
+			"icon": "/images/home/icons/cart.png",
+			"path": "/sections/cart"
+		}
+	],
+	"footer": [
+		{
+			"id": "1",
+			"category": "COMPANY",
+			"items": [
+				{ "id": "company-about", "label": "About Netmeds", "link": "/about" },
+				{ "id": "company-career", "label": "Career", "link": "/career" },
+				{ "id": "company-sitemap", "label": "Sitemap", "link": "/sitemap" },
+				{
+					"id": "company-terms",
+					"label": "Terms & Conditions",
+					"link": "/terms"
+				},
+				{
+					"id": "company-privacy",
+					"label": "Privacy Policy",
+					"link": "/privacy"
+				},
+				{
+					"id": "company-fees",
+					"label": "Fees & Payments Policy",
+					"link": "/fees-payments"
+				},
+				{
+					"id": "company-shipping",
+					"label": "Shipping & Delivery Policy",
+					"link": "/shipping"
+				},
+				{
+					"id": "company-return",
+					"label": "Return, Refund & Cancellation Policy",
+					"link": "/return-refund"
+				},
+				{
+					"id": "company-editorial",
+					"label": "Editorial Policy",
+					"link": "/editorial-policy"
+				},
+				{
+					"id": "company-caution",
+					"label": "Caution Notice",
+					"link": "/caution"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"category": "SHOPPING",
+			"items": [
+				{
+					"id": "shopping-atoz",
+					"label": "Medicines A to Z",
+					"link": "/medicines-a-to-z"
+				},
+				{
+					"id": "shopping-categories",
+					"label": "Shop by Categories",
+					"link": "/categories"
+				},
+				{
+					"id": "shopping-offers",
+					"label": "Offers / Coupons",
+					"link": "/offers"
+				},
+				{ "id": "shopping-faqs", "label": "FAQs", "link": "/faqs" },
+				{ "id": "shopping-contact", "label": "Contact Us", "link": "/contact" }
+			]
+		},
+		{
+			"id": "3",
+			"category": "SOCIAL",
+			"items": [
+				{
+					"id": "social-facebook",
+					"label": "Facebook",
+					"link": "https://www.facebook.com"
+				},
+				{
+					"id": "social-twitter",
+					"label": "Twitter",
+					"link": "https://www.twitter.com"
+				},
+				{
+					"id": "social-linkedin",
+					"label": "LinkedIn",
+					"link": "https://www.linkedin.com"
+				},
+				{
+					"id": "social-youtube",
+					"label": "Youtube",
+					"link": "https://www.youtube.com"
+				},
+				{
+					"id": "social-instagram",
+					"label": "Instagram",
+					"link": "https://www.instagram.com"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"input": true,
+			"category": "SUBSCRIBE TO OUR NEWSLETTER",
+			"items": [
+				{
+					"id": "newsletter-description",
+					"label": "Get a free subscription to our health and fitness tip and stay tuned to our latest offers",
+					"link": "/subscribe"
+				}
+			]
+		}
+	]
+}
