@@ -1,9 +1,11 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import {
-	categorySelectors,
 	sectionSelectors,
+	selectCategoriesBySection,
 } from "../redux/slices/productSelectors";
+import Header from "../components/Header/Header";
+import Footer from "../components/Footer/Footer";
 
 function SectionPage() {
 	const { sectionId } = useParams();
@@ -13,13 +15,10 @@ function SectionPage() {
 		sectionSelectors.selectById(state, sectionId)
 	);
 
-	const categories = useSelector((state) =>
-		categorySelectors
-			.selectAll(state)
-			.filter((c) => c.section === section?.name)
+	const categories = useSelector(
+		section ? selectCategoriesBySection(section.name) : () => []
 	);
-	console.log(categories);
-	
+
 	const handleNavigate = (id) => {
 		navigate(`/sections/${sectionId}/${id}`);
 		console.log(id);
@@ -28,19 +27,27 @@ function SectionPage() {
 	if (!section) return <p>Loading section...</p>;
 
 	return (
-		<>
-			<h1>{section.name}</h1>
+		<div>
+			<div>
+				<Header />
+			</div>
+			<div>
+				<h1>{section.name}</h1>
 
-			{categories.map((c) => (
-				<div
-					key={c.id}
-					onClick={() => handleNavigate(c.id)}
-					style={{ cursor: "pointer" }}
-				>
-					{c.name}
-				</div>
-			))}
-		</>
+				{categories.map((c) => (
+					<div
+						key={c.id}
+						onClick={() => handleNavigate(c.id)}
+						style={{ cursor: "pointer" }}
+					>
+						{c.name}
+					</div>
+				))}
+			</div>
+			<div>
+				<Footer />
+			</div>
+		</div>
 	);
 }
 

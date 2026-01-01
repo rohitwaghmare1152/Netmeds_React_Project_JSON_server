@@ -9,7 +9,6 @@ function Home() {
 	const sections = useSelector(sectionSelectors.selectAll);
 
 	const catalog = useSelector((state) => state.catalog);
-console.log("CATALOG 👉", catalog);
 
 	if (!sections.length) {
 		return <p>Loading sections...</p>;

@@ -6,8 +6,11 @@ import { FaLocationDot } from "react-icons/fa6";
 import { IoIosSearch } from "react-icons/io";
 import { PiShoppingCartSimpleFill } from "react-icons/pi";
 import { FaUser } from "react-icons/fa";
+import { useSelector } from "react-redux";
+import { selectCartCount } from "../../redux/slices/cartSelectors";
 
 function Header() {
+	const count = useSelector(selectCartCount)
 	return (
 		<div className="bg-teal-400">
 			<div className="container flex flex-col md:flex-row items-start md:items-center justify-start md:justify-between p-2">
@@ -39,6 +42,7 @@ function Header() {
 					<div className="hidden md:block p-2 hover:bg-sky-200 hover:rounded-4xl cursor-pointer">
 						<Link to={"/cart"}>
 							<PiShoppingCartSimpleFill className="w-6 h-6 text-black" />
+							{count}
 						</Link>
 					</div>
 					<div className="flex items-center hidden md:block">

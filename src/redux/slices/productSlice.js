@@ -1,7 +1,9 @@
 import { createEntityAdapter, createSlice } from "@reduxjs/toolkit";
 import { getAllData } from "../actions";
 
-export const productsAdapter = createEntityAdapter();
+export const productsAdapter = createEntityAdapter({
+  selectId: (product) => product.product_id
+});
 export const subcategoriesAdapter = createEntityAdapter();
 export const categoriesAdapter = createEntityAdapter();
 export const sectionsAdapter = createEntityAdapter();
@@ -27,7 +29,6 @@ const productSlice = createSlice({
       })
       .addCase(getAllData.fulfilled, (state, action) => {
         state.loading = false;
-        console.log("PAYLOAD 👉", action.payload);
         productsAdapter.setAll(state.products, action.payload.products);
         subcategoriesAdapter.setAll(state.subcategories, action.payload.subcategories);
         categoriesAdapter.setAll(state.categories, action.payload.categories);

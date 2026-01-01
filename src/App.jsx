@@ -2,9 +2,10 @@ import React, { useEffect } from "react";
 import Home from "./pages/Home/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import SingIn from "./pages/SignIn/SingIn";
+import Cart from "./pages/Cart/Cart.jsx";
 import AllCategories from "./pages/allCaegories/AllCategories";
 import { useDispatch } from "react-redux";
-import { getAllData } from "./redux/actions.js";
+import { getAllData, getCart } from "./redux/actions.js";
 import SectionPage from "./pages/SectionPage.jsx";
 import CategoryPage from "./pages/CategoryPage.jsx";
 import SubcategoryPage from "./pages/SubcategoryPage.jsx";
@@ -16,6 +17,7 @@ function App() {
 
 	useEffect(() => {
 		dispatch(getAllData());
+		dispatch(getCart());
 	}, [dispatch]);
 
 	return (
@@ -24,6 +26,7 @@ function App() {
 				<Routes>
 					<Route path="/" element={<Home />} />
 					<Route path="/auth" element={<SingIn />} />
+					<Route path="/cart" element={<Cart />} />
 					<Route path="/sections/all-categories" element={<AllCategories />} />
 					<Route path="/sections/:sectionId" element={<SectionPage />} />
 					<Route

@@ -1,3 +1,4 @@
+import { createSelector } from "@reduxjs/toolkit";
 import {
     categoriesAdapter,
     productsAdapter,
@@ -17,18 +18,20 @@ export const categorySelectors =
 export const sectionSelectors =
     sectionsAdapter.getSelectors((state) => state.catalog.sections);
 
-export const selectCategoriesBySection = (sectionId) => (state) =>
+export const selectCategoriesBySection = (sectionName) => (state) =>
     categorySelectors
         .selectAll(state)
-        .filter((s) => s.sectionId === sectionId);
+        .filter((c) => c.section === sectionName);
 
-export const selectSubcategoriesByCategory = (categoryId) => (state) =>
-    subcategorySelectors
-        .selectAll(state)
-        .filter((c) => c.categoryId === categoryId);
+export const selectSubcategoriesByCategory = (categoryId) =>
+    createSelector(
+        [(state) => subcategorySelectors.selectAll(state)],
+        (subcategories) =>
+            subcategories.filter((s) => s.category_id === categoryId)
+    );
 
-export const selectProductsBySubcategory = (subcategoryId) => (state) =>
-    productSelectors
-        .selectAll(state)
-        .filter((p) => p.subcategoryId === subcategoryId);
-        
+export const selectProductsBySubcategory = (subcategoryId) => 
+    createSelector(
+    [(state) => productSelectors.selectAll(state)],
+        (products) =>
+        products.filter((p) => p.subcategory_id === subcategoryId))

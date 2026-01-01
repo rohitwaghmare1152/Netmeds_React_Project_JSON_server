@@ -2,8 +2,11 @@ import { useParams, useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import {
 	categorySelectors,
-  subcategorySelectors,
+	selectSubcategoriesByCategory,
+	subcategorySelectors,
 } from "../redux/slices/productSelectors";
+import Header from "../components/Header/Header";
+import Footer from "../components/Footer/Footer";
 
 function CategoryPage() {
 	const { categoryId, sectionId } = useParams();
@@ -13,33 +16,38 @@ function CategoryPage() {
 		categorySelectors.selectById(state, categoryId)
 	);
 
-	const subcategories = useSelector((state) =>
-		subcategorySelectors
-			.selectAll(state)
-			.filter((s) => s.category_id === category?.id)
+	const subcategories = useSelector(
+		category ? selectSubcategoriesByCategory(category.id) : () => []
 	);
 
-  const handleNavigate = (subCategoryId) => {
-		navigate(`/sections/${sectionId}/${categoryId}/${subCategoryId}`);
-		console.log(subCategoryId);
+	const handleNavigate = (subcategoryId) => {
+		navigate(`/sections/${sectionId}/${categoryId}/${subcategoryId}`);
 	};
 
-	if (!category) return <p>Loading category...</p>;
+	if (!category) return <p>Invalid category...</p>;
 
 	return (
-		<>
-			<h2>{category.name}</h2>
+		<div>
+			<div>
+				<Header />
+			</div>
+			<div>
+				<h2>{category.name}</h2>
 
-			{subcategories.map((s) => (
-				<div
-					key={s.id}
-					onClick={() => handleNavigate(s.id)}
-					style={{ cursor: "pointer" }}
-				>
-					{s.name}
-				</div>
-			))}
-		</>
+				{subcategories.map((s) => (
+					<div
+						key={s.id}
+						onClick={() => handleNavigate(s.id)}
+						style={{ cursor: "pointer" }}
+					>
+						{s.name}
+					</div>
+				))}
+			</div>
+			<div>
+				<Footer />
+			</div>
+		</div>
 	);
 }
 

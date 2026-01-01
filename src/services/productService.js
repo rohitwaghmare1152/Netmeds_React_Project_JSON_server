@@ -5,11 +5,6 @@ export const fetchProducts = async () => {
     return res.data
 };
 
-export const fetchCart = async () => {
-    const res = await axiosInstance.get("/cart");
-    return res.data
-};
-
 export const fetchSubcategories = async () => {
     const res = await axiosInstance.get("/subcategories");
     return res.data
@@ -23,4 +18,4 @@ export const fetchCategories = async () => {
 export const fetchSections = async () => {
     const res = await axiosInstance.get("/sections");
     return res.data
-};
+}; 
