@@ -8,8 +8,6 @@ function Home() {
 	const navigate = useNavigate();
 	const sections = useSelector(sectionSelectors.selectAll);
 
-	const catalog = useSelector((state) => state.catalog);
-
 	if (!sections.length) {
 		return <p>Loading sections...</p>;
 	}

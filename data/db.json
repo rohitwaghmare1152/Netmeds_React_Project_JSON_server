@@ -21001,6 +21001,3006 @@
       "id": "f4e2"
     },
     {
+      "product_id": "home-health-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 1",
+      "name": "Home & Health Formula 1",
+      "manufacturer": "CarePlus",
+      "price": 206,
+      "mrp": 666,
+      "discount": "47%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 61mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "d343"
+    },
+    {
+      "product_id": "home-health-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 2",
+      "name": "Home & Health Formula 2",
+      "manufacturer": "CarePlus",
+      "price": 360,
+      "mrp": 795,
+      "discount": "63%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 29mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "395d"
+    },
+    {
+      "product_id": "home-health-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 3",
+      "name": "Home & Health Formula 3",
+      "manufacturer": "CarePlus",
+      "price": 214,
+      "mrp": 750,
+      "discount": "43%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 99mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "05ec"
+    },
+    {
+      "product_id": "home-health-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 4",
+      "name": "Home & Health Formula 4",
+      "manufacturer": "CarePlus",
+      "price": 214,
+      "mrp": 669,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 98mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "a8e4"
+    },
+    {
+      "product_id": "home-health-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 5",
+      "name": "Home & Health Formula 5",
+      "manufacturer": "CarePlus",
+      "price": 399,
+      "mrp": 668,
+      "discount": "47%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 71mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "b9a2"
+    },
+    {
+      "product_id": "home-health-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 6",
+      "name": "Home & Health Formula 6",
+      "manufacturer": "CarePlus",
+      "price": 378,
+      "mrp": 876,
+      "discount": "40%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 84mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "a798"
+    },
+    {
+      "product_id": "home-health-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 7",
+      "name": "Home & Health Formula 7",
+      "manufacturer": "CarePlus",
+      "price": 154,
+      "mrp": 972,
+      "discount": "61%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 41mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "f0a4"
+    },
+    {
+      "product_id": "home-health-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 8",
+      "name": "Home & Health Formula 8",
+      "manufacturer": "CarePlus",
+      "price": 155,
+      "mrp": 734,
+      "discount": "46%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 20mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "543f"
+    },
+    {
+      "product_id": "home-health-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 9",
+      "name": "Home & Health Formula 9",
+      "manufacturer": "CarePlus",
+      "price": 320,
+      "mrp": 512,
+      "discount": "68%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 18mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "4b36"
+    },
+    {
+      "product_id": "home-health-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Home & Health",
+      "product_name": "Home & Health Product 10",
+      "name": "Home & Health Formula 10",
+      "manufacturer": "CarePlus",
+      "price": 353,
+      "mrp": 902,
+      "discount": "53%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality home & health product for daily use.",
+      "composition": "Home & Health Compound 33mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "home-health",
+      "section": "Wellness",
+      "id": "46ad"
+    },
+    {
+      "product_id": "senior-care-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 1",
+      "name": "Senior Care Formula 1",
+      "manufacturer": "ElderSafe",
+      "price": 392,
+      "mrp": 689,
+      "discount": "67%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 52mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "16ef"
+    },
+    {
+      "product_id": "senior-care-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 2",
+      "name": "Senior Care Formula 2",
+      "manufacturer": "ElderSafe",
+      "price": 194,
+      "mrp": 696,
+      "discount": "69%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 83mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "2527"
+    },
+    {
+      "product_id": "senior-care-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 3",
+      "name": "Senior Care Formula 3",
+      "manufacturer": "ElderSafe",
+      "price": 292,
+      "mrp": 983,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 86mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "79b1"
+    },
+    {
+      "product_id": "senior-care-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 4",
+      "name": "Senior Care Formula 4",
+      "manufacturer": "ElderSafe",
+      "price": 292,
+      "mrp": 776,
+      "discount": "42%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 86mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "c9ac"
+    },
+    {
+      "product_id": "senior-care-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 5",
+      "name": "Senior Care Formula 5",
+      "manufacturer": "ElderSafe",
+      "price": 373,
+      "mrp": 628,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 31mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "4d2e"
+    },
+    {
+      "product_id": "senior-care-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 6",
+      "name": "Senior Care Formula 6",
+      "manufacturer": "ElderSafe",
+      "price": 206,
+      "mrp": 856,
+      "discount": "55%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 96mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "fa11"
+    },
+    {
+      "product_id": "senior-care-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 7",
+      "name": "Senior Care Formula 7",
+      "manufacturer": "ElderSafe",
+      "price": 274,
+      "mrp": 558,
+      "discount": "54%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 84mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "e1f1"
+    },
+    {
+      "product_id": "senior-care-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 8",
+      "name": "Senior Care Formula 8",
+      "manufacturer": "ElderSafe",
+      "price": 228,
+      "mrp": 532,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 16mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "e26d"
+    },
+    {
+      "product_id": "senior-care-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 9",
+      "name": "Senior Care Formula 9",
+      "manufacturer": "ElderSafe",
+      "price": 152,
+      "mrp": 511,
+      "discount": "65%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 12mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "2b5b"
+    },
+    {
+      "product_id": "senior-care-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Senior Care",
+      "product_name": "Senior Care Product 10",
+      "name": "Senior Care Formula 10",
+      "manufacturer": "ElderSafe",
+      "price": 162,
+      "mrp": 937,
+      "discount": "61%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality senior care product for daily use.",
+      "composition": "Senior Care Compound 40mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "senior_care",
+      "section": "Wellness",
+      "id": "b50e"
+    },
+    {
+      "product_id": "face-personal-care-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 1",
+      "name": "Face Personal Care Formula 1",
+      "manufacturer": "GlowPure",
+      "price": 273,
+      "mrp": 553,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 47mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "0d7b"
+    },
+    {
+      "product_id": "face-personal-care-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 2",
+      "name": "Face Personal Care Formula 2",
+      "manufacturer": "GlowPure",
+      "price": 294,
+      "mrp": 737,
+      "discount": "60%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 15mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "e25b"
+    },
+    {
+      "product_id": "face-personal-care-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 3",
+      "name": "Face Personal Care Formula 3",
+      "manufacturer": "GlowPure",
+      "price": 169,
+      "mrp": 828,
+      "discount": "49%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 35mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "323f"
+    },
+    {
+      "product_id": "face-personal-care-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 4",
+      "name": "Face Personal Care Formula 4",
+      "manufacturer": "GlowPure",
+      "price": 161,
+      "mrp": 843,
+      "discount": "49%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 43mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "d293"
+    },
+    {
+      "product_id": "face-personal-care-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 5",
+      "name": "Face Personal Care Formula 5",
+      "manufacturer": "GlowPure",
+      "price": 297,
+      "mrp": 634,
+      "discount": "66%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 39mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "5096"
+    },
+    {
+      "product_id": "face-personal-care-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 6",
+      "name": "Face Personal Care Formula 6",
+      "manufacturer": "GlowPure",
+      "price": 381,
+      "mrp": 820,
+      "discount": "47%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 72mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "7cf5"
+    },
+    {
+      "product_id": "face-personal-care-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 7",
+      "name": "Face Personal Care Formula 7",
+      "manufacturer": "GlowPure",
+      "price": 323,
+      "mrp": 587,
+      "discount": "57%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 56mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "1576"
+    },
+    {
+      "product_id": "face-personal-care-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 8",
+      "name": "Face Personal Care Formula 8",
+      "manufacturer": "GlowPure",
+      "price": 301,
+      "mrp": 959,
+      "discount": "42%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 27mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "547d"
+    },
+    {
+      "product_id": "face-personal-care-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 9",
+      "name": "Face Personal Care Formula 9",
+      "manufacturer": "GlowPure",
+      "price": 325,
+      "mrp": 872,
+      "discount": "42%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 59mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "0c37"
+    },
+    {
+      "product_id": "face-personal-care-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Face Personal Care",
+      "product_name": "Face Personal Care Product 10",
+      "name": "Face Personal Care Formula 10",
+      "manufacturer": "GlowPure",
+      "price": 395,
+      "mrp": 689,
+      "discount": "67%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality face personal care product for daily use.",
+      "composition": "Face Personal Care Compound 52mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "face_personal_care",
+      "section": "Wellness",
+      "id": "9b0d"
+    },
+    {
+      "product_id": "hands-feet-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 1",
+      "name": "Hands & Feet Formula 1",
+      "manufacturer": "SoftCare",
+      "price": 352,
+      "mrp": 868,
+      "discount": "53%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 40mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "5538"
+    },
+    {
+      "product_id": "hands-feet-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 2",
+      "name": "Hands & Feet Formula 2",
+      "manufacturer": "SoftCare",
+      "price": 181,
+      "mrp": 873,
+      "discount": "50%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 18mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "e5df"
+    },
+    {
+      "product_id": "hands-feet-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 3",
+      "name": "Hands & Feet Formula 3",
+      "manufacturer": "SoftCare",
+      "price": 249,
+      "mrp": 962,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 63mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "2f0c"
+    },
+    {
+      "product_id": "hands-feet-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 4",
+      "name": "Hands & Feet Formula 4",
+      "manufacturer": "SoftCare",
+      "price": 163,
+      "mrp": 521,
+      "discount": "54%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 50mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "f128"
+    },
+    {
+      "product_id": "hands-feet-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 5",
+      "name": "Hands & Feet Formula 5",
+      "manufacturer": "SoftCare",
+      "price": 311,
+      "mrp": 880,
+      "discount": "55%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 67mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "f5a4"
+    },
+    {
+      "product_id": "hands-feet-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 6",
+      "name": "Hands & Feet Formula 6",
+      "manufacturer": "SoftCare",
+      "price": 273,
+      "mrp": 528,
+      "discount": "51%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 85mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "86b1"
+    },
+    {
+      "product_id": "hands-feet-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 7",
+      "name": "Hands & Feet Formula 7",
+      "manufacturer": "SoftCare",
+      "price": 262,
+      "mrp": 970,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 89mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "82f1"
+    },
+    {
+      "product_id": "hands-feet-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 8",
+      "name": "Hands & Feet Formula 8",
+      "manufacturer": "SoftCare",
+      "price": 238,
+      "mrp": 544,
+      "discount": "70%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 78mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "f476"
+    },
+    {
+      "product_id": "hands-feet-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 9",
+      "name": "Hands & Feet Formula 9",
+      "manufacturer": "SoftCare",
+      "price": 203,
+      "mrp": 606,
+      "discount": "49%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 39mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "b482"
+    },
+    {
+      "product_id": "hands-feet-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Hands & Feet",
+      "product_name": "Hands & Feet Product 10",
+      "name": "Hands & Feet Formula 10",
+      "manufacturer": "SoftCare",
+      "price": 238,
+      "mrp": 647,
+      "discount": "65%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality hands & feet product for daily use.",
+      "composition": "Hands & Feet Compound 12mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "hands_feet",
+      "section": "Wellness",
+      "id": "69ce"
+    },
+    {
+      "product_id": "oral-care-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 1",
+      "name": "Oral Care Formula 1",
+      "manufacturer": "DentSafe",
+      "price": 249,
+      "mrp": 541,
+      "discount": "65%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 96mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "e3be"
+    },
+    {
+      "product_id": "oral-care-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 2",
+      "name": "Oral Care Formula 2",
+      "manufacturer": "DentSafe",
+      "price": 363,
+      "mrp": 788,
+      "discount": "40%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 21mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "2d9e"
+    },
+    {
+      "product_id": "oral-care-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 3",
+      "name": "Oral Care Formula 3",
+      "manufacturer": "DentSafe",
+      "price": 360,
+      "mrp": 736,
+      "discount": "48%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 13mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "9b22"
+    },
+    {
+      "product_id": "oral-care-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 4",
+      "name": "Oral Care Formula 4",
+      "manufacturer": "DentSafe",
+      "price": 191,
+      "mrp": 627,
+      "discount": "47%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 60mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "ffd5"
+    },
+    {
+      "product_id": "oral-care-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 5",
+      "name": "Oral Care Formula 5",
+      "manufacturer": "DentSafe",
+      "price": 361,
+      "mrp": 913,
+      "discount": "69%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 35mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "ee13"
+    },
+    {
+      "product_id": "oral-care-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 6",
+      "name": "Oral Care Formula 6",
+      "manufacturer": "DentSafe",
+      "price": 264,
+      "mrp": 752,
+      "discount": "61%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 56mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "ed9a"
+    },
+    {
+      "product_id": "oral-care-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 7",
+      "name": "Oral Care Formula 7",
+      "manufacturer": "DentSafe",
+      "price": 266,
+      "mrp": 540,
+      "discount": "42%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 44mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "c4b7"
+    },
+    {
+      "product_id": "oral-care-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 8",
+      "name": "Oral Care Formula 8",
+      "manufacturer": "DentSafe",
+      "price": 400,
+      "mrp": 849,
+      "discount": "65%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 56mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "38f1"
+    },
+    {
+      "product_id": "oral-care-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 9",
+      "name": "Oral Care Formula 9",
+      "manufacturer": "DentSafe",
+      "price": 204,
+      "mrp": 500,
+      "discount": "70%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 46mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "25c3"
+    },
+    {
+      "product_id": "oral-care-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Oral Care",
+      "product_name": "Oral Care Product 10",
+      "name": "Oral Care Formula 10",
+      "manufacturer": "DentSafe",
+      "price": 370,
+      "mrp": 523,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality oral care product for daily use.",
+      "composition": "Oral Care Compound 81mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "oral_care",
+      "section": "Wellness",
+      "id": "6927"
+    },
+    {
+      "product_id": "bath-shower-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 1",
+      "name": "Bath & Shower Formula 1",
+      "manufacturer": "FreshBath",
+      "price": 281,
+      "mrp": 682,
+      "discount": "52%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 69mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "1147"
+    },
+    {
+      "product_id": "bath-shower-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 2",
+      "name": "Bath & Shower Formula 2",
+      "manufacturer": "FreshBath",
+      "price": 300,
+      "mrp": 649,
+      "discount": "58%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 61mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "e3c4"
+    },
+    {
+      "product_id": "bath-shower-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 3",
+      "name": "Bath & Shower Formula 3",
+      "manufacturer": "FreshBath",
+      "price": 383,
+      "mrp": 920,
+      "discount": "45%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 56mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "64eb"
+    },
+    {
+      "product_id": "bath-shower-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 4",
+      "name": "Bath & Shower Formula 4",
+      "manufacturer": "FreshBath",
+      "price": 348,
+      "mrp": 991,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 94mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "6dd8"
+    },
+    {
+      "product_id": "bath-shower-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 5",
+      "name": "Bath & Shower Formula 5",
+      "manufacturer": "FreshBath",
+      "price": 175,
+      "mrp": 794,
+      "discount": "55%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 72mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "bb37"
+    },
+    {
+      "product_id": "bath-shower-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 6",
+      "name": "Bath & Shower Formula 6",
+      "manufacturer": "FreshBath",
+      "price": 265,
+      "mrp": 588,
+      "discount": "58%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 58mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "b580"
+    },
+    {
+      "product_id": "bath-shower-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 7",
+      "name": "Bath & Shower Formula 7",
+      "manufacturer": "FreshBath",
+      "price": 381,
+      "mrp": 905,
+      "discount": "63%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 84mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "fbf0"
+    },
+    {
+      "product_id": "bath-shower-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 8",
+      "name": "Bath & Shower Formula 8",
+      "manufacturer": "FreshBath",
+      "price": 315,
+      "mrp": 708,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 44mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "0faf"
+    },
+    {
+      "product_id": "bath-shower-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 9",
+      "name": "Bath & Shower Formula 9",
+      "manufacturer": "FreshBath",
+      "price": 180,
+      "mrp": 554,
+      "discount": "56%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 42mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "385c"
+    },
+    {
+      "product_id": "bath-shower-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Bath & Shower",
+      "product_name": "Bath & Shower Product 10",
+      "name": "Bath & Shower Formula 10",
+      "manufacturer": "FreshBath",
+      "price": 210,
+      "mrp": 934,
+      "discount": "45%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality bath & shower product for daily use.",
+      "composition": "Bath & Shower Compound 50mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bath_shower",
+      "section": "Wellness",
+      "id": "0e66"
+    },
+    {
+      "product_id": "body-care-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 1",
+      "name": "Body Care Formula 1",
+      "manufacturer": "BodyPure",
+      "price": 365,
+      "mrp": 866,
+      "discount": "53%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 94mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "373a"
+    },
+    {
+      "product_id": "body-care-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 2",
+      "name": "Body Care Formula 2",
+      "manufacturer": "BodyPure",
+      "price": 270,
+      "mrp": 898,
+      "discount": "56%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 70mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "21d5"
+    },
+    {
+      "product_id": "body-care-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 3",
+      "name": "Body Care Formula 3",
+      "manufacturer": "BodyPure",
+      "price": 153,
+      "mrp": 917,
+      "discount": "40%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 92mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "5547"
+    },
+    {
+      "product_id": "body-care-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 4",
+      "name": "Body Care Formula 4",
+      "manufacturer": "BodyPure",
+      "price": 163,
+      "mrp": 580,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 97mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "ecfd"
+    },
+    {
+      "product_id": "body-care-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 5",
+      "name": "Body Care Formula 5",
+      "manufacturer": "BodyPure",
+      "price": 211,
+      "mrp": 717,
+      "discount": "59%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 51mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "d257"
+    },
+    {
+      "product_id": "body-care-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 6",
+      "name": "Body Care Formula 6",
+      "manufacturer": "BodyPure",
+      "price": 192,
+      "mrp": 741,
+      "discount": "43%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 34mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "17c0"
+    },
+    {
+      "product_id": "body-care-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 7",
+      "name": "Body Care Formula 7",
+      "manufacturer": "BodyPure",
+      "price": 271,
+      "mrp": 836,
+      "discount": "43%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 19mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "eaba"
+    },
+    {
+      "product_id": "body-care-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 8",
+      "name": "Body Care Formula 8",
+      "manufacturer": "BodyPure",
+      "price": 251,
+      "mrp": 935,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 25mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "b6f9"
+    },
+    {
+      "product_id": "body-care-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 9",
+      "name": "Body Care Formula 9",
+      "manufacturer": "BodyPure",
+      "price": 366,
+      "mrp": 939,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 58mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "71e8"
+    },
+    {
+      "product_id": "body-care-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Body Care",
+      "product_name": "Body Care Product 10",
+      "name": "Body Care Formula 10",
+      "manufacturer": "BodyPure",
+      "price": 191,
+      "mrp": 977,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality body care product for daily use.",
+      "composition": "Body Care Compound 56mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "body_care",
+      "section": "Wellness",
+      "id": "7d94"
+    },
+    {
+      "product_id": "personal-care-tools-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 1",
+      "name": "Personal Care Tools & Accessories Formula 1",
+      "manufacturer": "ToolCare",
+      "price": 214,
+      "mrp": 775,
+      "discount": "55%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 81mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "6a1e"
+    },
+    {
+      "product_id": "personal-care-tools-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 2",
+      "name": "Personal Care Tools & Accessories Formula 2",
+      "manufacturer": "ToolCare",
+      "price": 246,
+      "mrp": 891,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 12mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "b401"
+    },
+    {
+      "product_id": "personal-care-tools-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 3",
+      "name": "Personal Care Tools & Accessories Formula 3",
+      "manufacturer": "ToolCare",
+      "price": 214,
+      "mrp": 822,
+      "discount": "42%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 99mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "d08d"
+    },
+    {
+      "product_id": "personal-care-tools-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 4",
+      "name": "Personal Care Tools & Accessories Formula 4",
+      "manufacturer": "ToolCare",
+      "price": 365,
+      "mrp": 725,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 51mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "6f7c"
+    },
+    {
+      "product_id": "personal-care-tools-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 5",
+      "name": "Personal Care Tools & Accessories Formula 5",
+      "manufacturer": "ToolCare",
+      "price": 395,
+      "mrp": 953,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 11mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "c6af"
+    },
+    {
+      "product_id": "personal-care-tools-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 6",
+      "name": "Personal Care Tools & Accessories Formula 6",
+      "manufacturer": "ToolCare",
+      "price": 160,
+      "mrp": 920,
+      "discount": "52%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 84mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "b936"
+    },
+    {
+      "product_id": "personal-care-tools-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 7",
+      "name": "Personal Care Tools & Accessories Formula 7",
+      "manufacturer": "ToolCare",
+      "price": 184,
+      "mrp": 642,
+      "discount": "57%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 96mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "2f78"
+    },
+    {
+      "product_id": "personal-care-tools-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 8",
+      "name": "Personal Care Tools & Accessories Formula 8",
+      "manufacturer": "ToolCare",
+      "price": 261,
+      "mrp": 790,
+      "discount": "67%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 57mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "f6fc"
+    },
+    {
+      "product_id": "personal-care-tools-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 9",
+      "name": "Personal Care Tools & Accessories Formula 9",
+      "manufacturer": "ToolCare",
+      "price": 359,
+      "mrp": 607,
+      "discount": "63%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 19mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "ecd2"
+    },
+    {
+      "product_id": "personal-care-tools-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Personal Care Tools & Accessories",
+      "product_name": "Personal Care Tools & Accessories Product 10",
+      "name": "Personal Care Tools & Accessories Formula 10",
+      "manufacturer": "ToolCare",
+      "price": 198,
+      "mrp": 982,
+      "discount": "46%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality personal care tools & accessories product for daily use.",
+      "composition": "Personal Care Tools & Accessories Compound 62mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "personal_care_tools",
+      "section": "Wellness",
+      "id": "9ac7"
+    },
+    {
+      "product_id": "lip-care-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 1",
+      "name": "Lip Care Formula 1",
+      "manufacturer": "LipSoft",
+      "price": 380,
+      "mrp": 966,
+      "discount": "50%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 28mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "c2bf"
+    },
+    {
+      "product_id": "lip-care-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 2",
+      "name": "Lip Care Formula 2",
+      "manufacturer": "LipSoft",
+      "price": 361,
+      "mrp": 891,
+      "discount": "61%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 49mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "353d"
+    },
+    {
+      "product_id": "lip-care-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 3",
+      "name": "Lip Care Formula 3",
+      "manufacturer": "LipSoft",
+      "price": 190,
+      "mrp": 926,
+      "discount": "61%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 79mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "a28f"
+    },
+    {
+      "product_id": "lip-care-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 4",
+      "name": "Lip Care Formula 4",
+      "manufacturer": "LipSoft",
+      "price": 395,
+      "mrp": 807,
+      "discount": "69%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 54mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "2afe"
+    },
+    {
+      "product_id": "lip-care-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 5",
+      "name": "Lip Care Formula 5",
+      "manufacturer": "LipSoft",
+      "price": 355,
+      "mrp": 698,
+      "discount": "58%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 25mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "faf3"
+    },
+    {
+      "product_id": "lip-care-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 6",
+      "name": "Lip Care Formula 6",
+      "manufacturer": "LipSoft",
+      "price": 238,
+      "mrp": 716,
+      "discount": "66%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 33mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "0283"
+    },
+    {
+      "product_id": "lip-care-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 7",
+      "name": "Lip Care Formula 7",
+      "manufacturer": "LipSoft",
+      "price": 207,
+      "mrp": 828,
+      "discount": "60%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 46mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "df85"
+    },
+    {
+      "product_id": "lip-care-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 8",
+      "name": "Lip Care Formula 8",
+      "manufacturer": "LipSoft",
+      "price": 163,
+      "mrp": 519,
+      "discount": "57%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 97mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "9523"
+    },
+    {
+      "product_id": "lip-care-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 9",
+      "name": "Lip Care Formula 9",
+      "manufacturer": "LipSoft",
+      "price": 365,
+      "mrp": 713,
+      "discount": "69%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.2",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 71mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "28af"
+    },
+    {
+      "product_id": "lip-care-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Lip Care",
+      "product_name": "Lip Care Product 10",
+      "name": "Lip Care Formula 10",
+      "manufacturer": "LipSoft",
+      "price": 221,
+      "mrp": 852,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality lip care product for daily use.",
+      "composition": "Lip Care Compound 91mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "lip_care",
+      "section": "Wellness",
+      "id": "59aa"
+    },
+    {
+      "product_id": "bathing-accessories-formula-1",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 1",
+      "name": "Bathing Accessories Formula 1",
+      "manufacturer": "BathPro",
+      "price": 298,
+      "mrp": 885,
+      "discount": "48%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 18mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "7074"
+    },
+    {
+      "product_id": "bathing-accessories-formula-2",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 2",
+      "name": "Bathing Accessories Formula 2",
+      "manufacturer": "BathPro",
+      "price": 187,
+      "mrp": 921,
+      "discount": "54%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 85mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "9c70"
+    },
+    {
+      "product_id": "bathing-accessories-formula-3",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 3",
+      "name": "Bathing Accessories Formula 3",
+      "manufacturer": "BathPro",
+      "price": 222,
+      "mrp": 781,
+      "discount": "47%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 58mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "e866"
+    },
+    {
+      "product_id": "bathing-accessories-formula-4",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 4",
+      "name": "Bathing Accessories Formula 4",
+      "manufacturer": "BathPro",
+      "price": 253,
+      "mrp": 529,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 14mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "24a0"
+    },
+    {
+      "product_id": "bathing-accessories-formula-5",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 5",
+      "name": "Bathing Accessories Formula 5",
+      "manufacturer": "BathPro",
+      "price": 373,
+      "mrp": 696,
+      "discount": "43%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 38mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "c7eb"
+    },
+    {
+      "product_id": "bathing-accessories-formula-6",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 6",
+      "name": "Bathing Accessories Formula 6",
+      "manufacturer": "BathPro",
+      "price": 280,
+      "mrp": 741,
+      "discount": "49%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 49mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "4232"
+    },
+    {
+      "product_id": "bathing-accessories-formula-7",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 7",
+      "name": "Bathing Accessories Formula 7",
+      "manufacturer": "BathPro",
+      "price": 226,
+      "mrp": 635,
+      "discount": "61%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 33mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "18e2"
+    },
+    {
+      "product_id": "bathing-accessories-formula-8",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 8",
+      "name": "Bathing Accessories Formula 8",
+      "manufacturer": "BathPro",
+      "price": 295,
+      "mrp": 668,
+      "discount": "55%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 92mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "86a0"
+    },
+    {
+      "product_id": "bathing-accessories-formula-9",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 9",
+      "name": "Bathing Accessories Formula 9",
+      "manufacturer": "BathPro",
+      "price": 224,
+      "mrp": 571,
+      "discount": "46%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 55mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "a735"
+    },
+    {
+      "product_id": "bathing-accessories-formula-10",
+      "category": "Personal Care",
+      "subcategory": "Bathing Accessories",
+      "product_name": "Bathing Accessories Product 10",
+      "name": "Bathing Accessories Formula 10",
+      "manufacturer": "BathPro",
+      "price": 266,
+      "mrp": 505,
+      "discount": "65%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 90 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality bathing accessories product for daily use.",
+      "composition": "Bathing Accessories Compound 81mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "personal_care",
+      "subcategory_id": "bathing_accessories",
+      "section": "Wellness",
+      "id": "f7b1"
+    },
+    {
       "product_id": "condoms-product-1",
       "category": "Sexual Wellness",
       "subcategory": "Condoms",
@@ -22499,6 +25499,1206 @@
       "subcategory_id": "intimate-tools-accessories",
       "section": "Wellness",
       "id": "1e93"
+    },
+    {
+      "product_id": "baby-care-formula-1",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 1",
+      "name": "Baby Care Formula 1",
+      "manufacturer": "BabySoft",
+      "price": 307,
+      "mrp": 1044,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 33mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "767a"
+    },
+    {
+      "product_id": "baby-care-formula-2",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 2",
+      "name": "Baby Care Formula 2",
+      "manufacturer": "BabySoft",
+      "price": 259,
+      "mrp": 934,
+      "discount": "38%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 98mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "8bd2"
+    },
+    {
+      "product_id": "baby-care-formula-3",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 3",
+      "name": "Baby Care Formula 3",
+      "manufacturer": "BabySoft",
+      "price": 188,
+      "mrp": 653,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 71mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "ad6e"
+    },
+    {
+      "product_id": "baby-care-formula-4",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 4",
+      "name": "Baby Care Formula 4",
+      "manufacturer": "BabySoft",
+      "price": 287,
+      "mrp": 1038,
+      "discount": "48%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 38mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "41e5"
+    },
+    {
+      "product_id": "baby-care-formula-5",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 5",
+      "name": "Baby Care Formula 5",
+      "manufacturer": "BabySoft",
+      "price": 275,
+      "mrp": 956,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 78mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "1a2b"
+    },
+    {
+      "product_id": "baby-care-formula-6",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 6",
+      "name": "Baby Care Formula 6",
+      "manufacturer": "BabySoft",
+      "price": 329,
+      "mrp": 662,
+      "discount": "45%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 60mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "1456"
+    },
+    {
+      "product_id": "baby-care-formula-7",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 7",
+      "name": "Baby Care Formula 7",
+      "manufacturer": "BabySoft",
+      "price": 312,
+      "mrp": 867,
+      "discount": "46%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 63mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "b7ce"
+    },
+    {
+      "product_id": "baby-care-formula-8",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 8",
+      "name": "Baby Care Formula 8",
+      "manufacturer": "BabySoft",
+      "price": 267,
+      "mrp": 1163,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 61mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "30be"
+    },
+    {
+      "product_id": "baby-care-formula-9",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 9",
+      "name": "Baby Care Formula 9",
+      "manufacturer": "BabySoft",
+      "price": 431,
+      "mrp": 1037,
+      "discount": "36%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 31mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "8e78"
+    },
+    {
+      "product_id": "baby-care-formula-10",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Care",
+      "product_name": "Baby Care Product 10",
+      "name": "Baby Care Formula 10",
+      "manufacturer": "BabySoft",
+      "price": 279,
+      "mrp": 922,
+      "discount": "56%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby care product designed for daily care.",
+      "composition": "Baby Care Care Compound 99mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_care",
+      "section": "Wellness",
+      "id": "8fb0"
+    },
+    {
+      "product_id": "baby-bathtime-formula-1",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 1",
+      "name": "Baby Bathtime Formula 1",
+      "manufacturer": "BabyFresh",
+      "price": 286,
+      "mrp": 912,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 23mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "7841"
+    },
+    {
+      "product_id": "baby-bathtime-formula-2",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 2",
+      "name": "Baby Bathtime Formula 2",
+      "manufacturer": "BabyFresh",
+      "price": 401,
+      "mrp": 844,
+      "discount": "39%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 89mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "2f3f"
+    },
+    {
+      "product_id": "baby-bathtime-formula-3",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 3",
+      "name": "Baby Bathtime Formula 3",
+      "manufacturer": "BabyFresh",
+      "price": 433,
+      "mrp": 837,
+      "discount": "55%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 20mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "051c"
+    },
+    {
+      "product_id": "baby-bathtime-formula-4",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 4",
+      "name": "Baby Bathtime Formula 4",
+      "manufacturer": "BabyFresh",
+      "price": 365,
+      "mrp": 769,
+      "discount": "43%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 32mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "ac19"
+    },
+    {
+      "product_id": "baby-bathtime-formula-5",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 5",
+      "name": "Baby Bathtime Formula 5",
+      "manufacturer": "BabyFresh",
+      "price": 208,
+      "mrp": 985,
+      "discount": "64%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.9",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 98mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "0794"
+    },
+    {
+      "product_id": "baby-bathtime-formula-6",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 6",
+      "name": "Baby Bathtime Formula 6",
+      "manufacturer": "BabyFresh",
+      "price": 282,
+      "mrp": 1084,
+      "discount": "44%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 62mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "4a6d"
+    },
+    {
+      "product_id": "baby-bathtime-formula-7",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 7",
+      "name": "Baby Bathtime Formula 7",
+      "manufacturer": "BabyFresh",
+      "price": 282,
+      "mrp": 970,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 30mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "5819"
+    },
+    {
+      "product_id": "baby-bathtime-formula-8",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 8",
+      "name": "Baby Bathtime Formula 8",
+      "manufacturer": "BabyFresh",
+      "price": 379,
+      "mrp": 738,
+      "discount": "40%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 75mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "01aa"
+    },
+    {
+      "product_id": "baby-bathtime-formula-9",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 9",
+      "name": "Baby Bathtime Formula 9",
+      "manufacturer": "BabyFresh",
+      "price": 199,
+      "mrp": 770,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 71mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "67c6"
+    },
+    {
+      "product_id": "baby-bathtime-formula-10",
+      "category": "Mom & Baby",
+      "subcategory": "Baby Bathtime",
+      "product_name": "Baby Bathtime Product 10",
+      "name": "Baby Bathtime Formula 10",
+      "manufacturer": "BabyFresh",
+      "price": 393,
+      "mrp": 883,
+      "discount": "51%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality baby bathtime product designed for daily care.",
+      "composition": "Baby Bathtime Care Compound 20mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "baby_bathtime",
+      "section": "Wellness",
+      "id": "a4fa"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-1",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 1",
+      "name": "Feminine Hygiene Formula 1",
+      "manufacturer": "FemCare",
+      "price": 249,
+      "mrp": 1082,
+      "discount": "62%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 43mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "1eec"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-2",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 2",
+      "name": "Feminine Hygiene Formula 2",
+      "manufacturer": "FemCare",
+      "price": 442,
+      "mrp": 767,
+      "discount": "59%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 49mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "a0c6"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-3",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 3",
+      "name": "Feminine Hygiene Formula 3",
+      "manufacturer": "FemCare",
+      "price": 266,
+      "mrp": 661,
+      "discount": "53%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 58mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "8c7d"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-4",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 4",
+      "name": "Feminine Hygiene Formula 4",
+      "manufacturer": "FemCare",
+      "price": 398,
+      "mrp": 638,
+      "discount": "65%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 50mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "1aaa"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-5",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 5",
+      "name": "Feminine Hygiene Formula 5",
+      "manufacturer": "FemCare",
+      "price": 204,
+      "mrp": 862,
+      "discount": "46%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 80mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "e08d"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-6",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 6",
+      "name": "Feminine Hygiene Formula 6",
+      "manufacturer": "FemCare",
+      "price": 277,
+      "mrp": 759,
+      "discount": "42%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 63mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "6776"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-7",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 7",
+      "name": "Feminine Hygiene Formula 7",
+      "manufacturer": "FemCare",
+      "price": 239,
+      "mrp": 1129,
+      "discount": "46%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 66mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "5362"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-8",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 8",
+      "name": "Feminine Hygiene Formula 8",
+      "manufacturer": "FemCare",
+      "price": 434,
+      "mrp": 1033,
+      "discount": "38%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 51mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "39f2"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-9",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 9",
+      "name": "Feminine Hygiene Formula 9",
+      "manufacturer": "FemCare",
+      "price": 293,
+      "mrp": 970,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 10mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "a25d"
+    },
+    {
+      "product_id": "feminine-hygiene-formula-10",
+      "category": "Mom & Baby",
+      "subcategory": "Feminine Hygiene",
+      "product_name": "Feminine Hygiene Product 10",
+      "name": "Feminine Hygiene Formula 10",
+      "manufacturer": "FemCare",
+      "price": 404,
+      "mrp": 1100,
+      "discount": "47%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.8",
+      "description": "High quality feminine hygiene product designed for daily care.",
+      "composition": "Feminine Hygiene Care Compound 18mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "feminine_hygiene",
+      "section": "Wellness",
+      "id": "3577"
+    },
+    {
+      "product_id": "maternity-care-formula-1",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 1",
+      "name": "Maternity Care Formula 1",
+      "manufacturer": "MomEase",
+      "price": 315,
+      "mrp": 770,
+      "discount": "43%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 46mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "d154"
+    },
+    {
+      "product_id": "maternity-care-formula-2",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 2",
+      "name": "Maternity Care Formula 2",
+      "manufacturer": "MomEase",
+      "price": 423,
+      "mrp": 1068,
+      "discount": "36%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 35mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "6e8e"
+    },
+    {
+      "product_id": "maternity-care-formula-3",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 3",
+      "name": "Maternity Care Formula 3",
+      "manufacturer": "MomEase",
+      "price": 423,
+      "mrp": 1016,
+      "discount": "63%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.3",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 26mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "cd00"
+    },
+    {
+      "product_id": "maternity-care-formula-4",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 4",
+      "name": "Maternity Care Formula 4",
+      "manufacturer": "MomEase",
+      "price": 271,
+      "mrp": 847,
+      "discount": "49%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.5",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 32mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "5017"
+    },
+    {
+      "product_id": "maternity-care-formula-5",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 5",
+      "name": "Maternity Care Formula 5",
+      "manufacturer": "MomEase",
+      "price": 400,
+      "mrp": 1019,
+      "discount": "58%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.7",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 45mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "c347"
+    },
+    {
+      "product_id": "maternity-care-formula-6",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 6",
+      "name": "Maternity Care Formula 6",
+      "manufacturer": "MomEase",
+      "price": 350,
+      "mrp": 1085,
+      "discount": "50%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 91mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "609c"
+    },
+    {
+      "product_id": "maternity-care-formula-7",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 7",
+      "name": "Maternity Care Formula 7",
+      "manufacturer": "MomEase",
+      "price": 254,
+      "mrp": 663,
+      "discount": "41%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.4",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 48mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "8848"
+    },
+    {
+      "product_id": "maternity-care-formula-8",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 8",
+      "name": "Maternity Care Formula 8",
+      "manufacturer": "MomEase",
+      "price": 366,
+      "mrp": 651,
+      "discount": "51%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 36mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "ccc7"
+    },
+    {
+      "product_id": "maternity-care-formula-9",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 9",
+      "name": "Maternity Care Formula 9",
+      "manufacturer": "MomEase",
+      "price": 184,
+      "mrp": 1095,
+      "discount": "45%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 50mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "9c53"
+    },
+    {
+      "product_id": "maternity-care-formula-10",
+      "category": "Mom & Baby",
+      "subcategory": "Maternity Care",
+      "product_name": "Maternity Care Product 10",
+      "name": "Maternity Care Formula 10",
+      "manufacturer": "MomEase",
+      "price": 208,
+      "mrp": 1157,
+      "discount": "52%",
+      "image": "public/images/products/medicine.png",
+      "pack_size": "Bottle of 100 units",
+      "requires_prescription": false,
+      "rating": "4.6",
+      "description": "High quality maternity care product designed for daily care.",
+      "composition": "Maternity Care Care Compound 76mg",
+      "uses": [
+        "Daily Care"
+      ],
+      "warnings": [
+        "Store in a cool and dry place"
+      ],
+      "side_effects": [
+        "None"
+      ],
+      "category_id": "mom-and-baby",
+      "subcategory_id": "maternity_care",
+      "section": "Wellness",
+      "id": "10d2"
     },
     {
       "product_id": "sugar-substitutes-product-1",
@@ -30194,6 +34394,76 @@
       "section": "Wellness"
     },
     {
+      "id": "home-health",
+      "name": "Home & Health",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "senior_care",
+      "name": "Senior Care",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "face_personal_care",
+      "name": "Face Personal Care",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "hands_feet",
+      "name": "Hands & Feet",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "oral_care",
+      "name": "Oral Care",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "bath_shower",
+      "name": "Bath & Shower",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "body_care",
+      "name": "Body Care",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "personal_care_tools",
+      "name": "Personal Care Tools & Accessories",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "lip_care",
+      "name": "Lip Care",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
+      "id": "bathing_accessories",
+      "name": "Bathing Accessories",
+      "category_id": "personal_care",
+      "category_name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
       "id": "condoms",
       "name": "Condoms",
       "category_id": "sexual-wellness",
@@ -30226,6 +34496,34 @@
       "name": "Intimate Tools & Accessories",
       "category_id": "sexual-wellness",
       "category_name": "Sexual Wellness",
+      "section": "Wellness"
+    },
+    {
+      "id": "baby_care",
+      "name": "Baby Care",
+      "category_id": "mom-and-baby",
+      "category_name": "Mom & Baby",
+      "section": "Wellness"
+    },
+    {
+      "id": "baby_bathtime",
+      "name": "Baby Bathtime",
+      "category_id": "mom-and-baby",
+      "category_name": "Mom & Baby",
+      "section": "Wellness"
+    },
+    {
+      "id": "feminine_hygiene",
+      "name": "Feminine Hygiene",
+      "category_id": "mom-and-baby",
+      "category_name": "Mom & Baby",
+      "section": "Wellness"
+    },
+    {
+      "id": "maternity_care",
+      "name": "Maternity Care",
+      "category_id": "mom-and-baby",
+      "category_name": "Mom & Baby",
       "section": "Wellness"
     },
     {
@@ -30429,7 +34727,7 @@
       "section": "Beauty"
     },
     {
-      "id": "bea-bcy",
+      "id": "mom-baby",
       "name": "Mom & Baby",
       "section": "Beauty"
     },
@@ -30459,8 +34757,18 @@
       "section": "Wellness"
     },
     {
+      "id": "personal_care",
+      "name": "Personal Care",
+      "section": "Wellness"
+    },
+    {
       "id": "sexual-wellness",
       "name": "Sexual Wellness",
+      "section": "Wellness"
+    },
+    {
+      "id": "mom-and-baby",
+      "name": "Mom & Baby",
       "section": "Wellness"
     },
     {

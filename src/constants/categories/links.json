@@ -15,141 +15,141 @@
 				{
 					"id": 1,
 					"name": "Order Online",
-					"path": "/medicine/order-online"
+					"path": "/sections/medicine/order-online"
 				},
 				{
 					"id": 2,
 					"name": "All Medicines",
-					"path": "/medicine/all-medicines"
+					"path": "/sections/medicine/all-medicines"
 				},
 				{
 					"id": 3,
 					"name": "Medicines by Health Issues",
-					"path": "/medicine/medicines-by-health-issues",
+					"path": "/sections/medicine/medicines-by-health-issues",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Bacterial Infections",
-							"path": "/medicine/medicines-by-health-issues/bacterial-infections"
+							"path": "/sections/medicine/medicines-by-health-issues/bacterial-infections"
 						},
 						{
 							"id": 2,
 							"name": "Cough & Cold",
-							"path": "/medicine/medicines-by-health-issues/cough-and-cold"
+							"path": "/sections/medicine/medicines-by-health-issues/cough-and-cold"
 						},
 						{
 							"id": 3,
 							"name": "Dandruff",
-							"path": "/medicine/medicines-by-health-issues/dandruff"
+							"path": "/sections/medicine/medicines-by-health-issues/dandruff"
 						},
 						{
 							"id": 4,
 							"name": "Diabetes",
-							"path": "/medicine/medicines-by-health-issues/diabetes"
+							"path": "/sections/medicine/medicines-by-health-issues/diabetes"
 						},
 						{
 							"id": 5,
 							"name": "Diarrhoea",
-							"path": "/medicine/medicines-by-health-issues/diarrhoea"
+							"path": "/sections/medicine/medicines-by-health-issues/diarrhoea"
 						},
 						{
 							"id": 6,
 							"name": "Digestion",
-							"path": "/medicine/medicines-by-health-issues/digestion"
+							"path": "/sections/medicine/medicines-by-health-issues/digestion"
 						},
 						{
 							"id": 7,
 							"name": "Fever",
-							"path": "/medicine/medicines-by-health-issues/fever"
+							"path": "/sections/medicine/medicines-by-health-issues/fever"
 						},
 						{
 							"id": 8,
 							"name": "High Cholesterol",
-							"path": "/medicine/medicines-by-health-issues/high-cholesterol"
+							"path": "/sections/medicine/medicines-by-health-issues/high-cholesterol"
 						},
 						{
 							"id": 9,
 							"name": "Hypertension",
-							"path": "/medicine/medicines-by-health-issues/hypertension"
+							"path": "/sections/medicine/medicines-by-health-issues/hypertension"
 						},
 						{
 							"id": 10,
 							"name": "Malaria",
-							"path": "/medicine/medicines-by-health-issues/malaria"
+							"path": "/sections/medicine/medicines-by-health-issues/malaria"
 						},
 						{
 							"id": 11,
 							"name": "Muscle Spasm",
-							"path": "/medicine/medicines-by-health-issues/muscle-spasm"
+							"path": "/sections/medicine/medicines-by-health-issues/muscle-spasm"
 						},
 						{
 							"id": 12,
 							"name": "Pain Relief",
-							"path": "/medicine/medicines-by-health-issues/pain-relief"
+							"path": "/sections/medicine/medicines-by-health-issues/pain-relief"
 						}
 					]
 				},
 				{
 					"id": 4,
 					"name": "Medicines for Body Parts",
-					"path": "/medicine/medicines-for-body-parts",
+					"path": "/sections/medicine/medicines-for-body-parts",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Cardiac",
-							"path": "/medicine/medicines-for-body-parts/cardiac"
+							"path": "/sections/medicine/medicines-for-body-parts/cardiac"
 						},
 						{
 							"id": 2,
 							"name": "Ear",
-							"path": "/medicine/medicines-for-body-parts/ear"
+							"path": "/sections/medicine/medicines-for-body-parts/ear"
 						},
 						{
 							"id": 3,
 							"name": "Eye",
-							"path": "/medicine/medicines-for-body-parts/eye"
+							"path": "/sections/medicine/medicines-for-body-parts/eye"
 						},
 						{
 							"id": 4,
 							"name": "Hair",
-							"path": "/medicine/medicines-for-body-parts/hair"
+							"path": "/sections/medicine/medicines-for-body-parts/hair"
 						},
 						{
 							"id": 5,
 							"name": "Kidney",
-							"path": "/medicine/medicines-for-body-parts/kidney"
+							"path": "/sections/medicine/medicines-for-body-parts/kidney"
 						},
 						{
 							"id": 6,
 							"name": "Liver",
-							"path": "/medicine/medicines-for-body-parts/liver"
+							"path": "/sections/medicine/medicines-for-body-parts/liver"
 						},
 						{
 							"id": 7,
 							"name": "Nasal",
-							"path": "/medicine/medicines-for-body-parts/nasal"
+							"path": "/sections/medicine/medicines-for-body-parts/nasal"
 						},
 						{
 							"id": 8,
 							"name": "Oral",
-							"path": "/medicine/medicines-for-body-parts/oral"
+							"path": "/sections/medicine/medicines-for-body-parts/oral"
 						},
 						{
 							"id": 9,
 							"name": "Skin",
-							"path": "/medicine/medicines-for-body-parts/skin"
+							"path": "/sections/medicine/medicines-for-body-parts/skin"
 						},
 						{
 							"id": 10,
 							"name": "Urinary",
-							"path": "/medicine/medicines-for-body-parts/urinary"
+							"path": "/sections/medicine/medicines-for-body-parts/urinary"
 						}
 					]
 				},
 				{
 					"id": 5,
 					"name": "Medicines by Generic Name",
-					"path": "/medicine/find-medicines-by-their-generic-name"
+					"path": "/sections/medicine/find-medicines-by-their-generic-name"
 				}
 			]
 		},
@@ -168,231 +168,231 @@
 				{
 					"id": 1,
 					"name": "Fragrances",
-					"path": "/beauty/fragrances",
+					"path": "/sections/beauty/fragrances",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Mens Fragrances",
-							"path": "/beauty/fragrances/mens-fragrances"
+							"path": "/sections/beauty/fragrances/mens-fragrances"
 						},
 						{
 							"id": 2,
 							"name": "Womens Fragrances",
-							"path": "/beauty/fragrances/womens-fragrances"
+							"path": "/sections/beauty/fragrances/womens-fragrances"
 						},
 						{
 							"id": 3,
 							"name": "Unisex Fragrances",
-							"path": "/beauty/fragrances/unisex-fragrances"
+							"path": "/sections/beauty/fragrances/unisex-fragrances"
 						}
 					]
 				},
 				{
 					"id": 2,
 					"name": "Hair",
-					"path": "/beauty/hair",
+					"path": "/sections/beauty/hair",
 					"subcategories": [
-						{ "id": 1, "name": "Hair Care", "path": "/beauty/hair/hair-care" },
+						{ "id": 1, "name": "Hair Care", "path": "/sections/beauty/hair/hair-care" },
 						{
 							"id": 2,
 							"name": "Hair Color",
-							"path": "/beauty/hair/hair-color"
+							"path": "/sections/beauty/hair/hair-color"
 						},
 						{
 							"id": 3,
 							"name": "Hair Styling",
-							"path": "/beauty/hair/hair-styling"
+							"path": "/sections/beauty/hair/hair-styling"
 						},
 						{
 							"id": 4,
 							"name": "Hair Tools & Accessories",
-							"path": "/beauty/hair/hair-tools-accessories"
+							"path": "/sections/beauty/hair/hair-tools-accessories"
 						},
 						{
 							"id": 5,
 							"name": "Scalp Treatment",
-							"path": "/beauty/hair/scalp-treatment"
+							"path": "/sections/beauty/hair/scalp-treatment"
 						}
 					]
 				},
 				{
 					"id": 3,
 					"name": "Men's Grooming",
-					"path": "/beauty/mens-grooming",
+					"path": "/sections/beauty/mens-grooming",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Bearded Care",
-							"path": "/beauty/mens-grooming/bearded-care"
+							"path": "/sections/beauty/mens-grooming/bearded-care"
 						},
 						{
 							"id": 2,
 							"name": "Shaving",
-							"path": "/beauty/mens-grooming/shaving"
+							"path": "/sections/beauty/mens-grooming/shaving"
 						}
 					]
 				},
 				{
 					"id": 4,
 					"name": "Make-Up",
-					"path": "/beauty/make-up",
+					"path": "/sections/beauty/make-up",
 					"subcategories": [
-						{ "id": 1, "name": "Eyes", "path": "/beauty/make-up/eyes" },
+						{ "id": 1, "name": "Eyes", "path": "/sections/beauty/make-up/eyes" },
 						{
 							"id": 2,
 							"name": "Make-Up Tools & Brushes",
-							"path": "/beauty/make-up/make-up-tools-brushes"
+							"path": "/sections/beauty/make-up/make-up-tools-brushes"
 						},
 						{
 							"id": 3,
 							"name": "Face Makeup",
-							"path": "/beauty/make-up/face-makeup"
+							"path": "/sections/beauty/make-up/face-makeup"
 						},
-						{ "id": 4, "name": "Lips", "path": "/beauty/make-up/lips" },
-						{ "id": 5, "name": "Nails", "path": "/beauty/make-up/nails" }
+						{ "id": 4, "name": "Lips", "path": "/sections/beauty/make-up/lips" },
+						{ "id": 5, "name": "Nails", "path": "/sections/beauty/make-up/nails" }
 					]
 				},
 				{
 					"id": 5,
 					"name": "Mom & Baby",
-					"path": "/beauty/mom-and-baby",
+					"path": "/sections/beauty/mom-and-baby",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Baby Care",
-							"path": "/beauty/mom-baby/baby-care"
+							"path": "/sections/beauty/mom-baby/baby-care"
 						},
 						{
 							"id": 2,
 							"name": "Baby Bathtime",
-							"path": "/beauty/mom-baby/baby-bathtime"
+							"path": "/sections/beauty/mom-baby/baby-bathtime"
 						},
 						{
 							"id": 3,
 							"name": "Feminine Hygiene",
-							"path": "/beauty/mom-baby/feminine-hygiene"
+							"path": "/sections/beauty/mom-baby/feminine-hygiene"
 						},
 						{
 							"id": 4,
 							"name": "Maternity Care",
-							"path": "/beauty/mom-baby/maternity-care"
+							"path": "/sections/beauty/mom-baby/maternity-care"
 						}
 					]
 				},
 				{
 					"id": 6,
 					"name": "Personal Care",
-					"path": "/beauty/personal-care",
+					"path": "/sections/beauty/personal-care",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Bath & Shower",
-							"path": "/beauty/personal-care/bath-shower"
+							"path": "/sections/beauty/personal-care/bath-shower"
 						},
 						{
 							"id": 2,
 							"name": "Bathing Accessories",
-							"path": "/beauty/personal-care/bathing-accessories"
+							"path": "/sections/beauty/personal-care/bathing-accessories"
 						},
 						{
 							"id": 3,
 							"name": "Body Care",
-							"path": "/beauty/personal-care/body-care"
+							"path": "/sections/beauty/personal-care/body-care"
 						},
 						{
 							"id": 4,
 							"name": "Face Personal Care",
-							"path": "/beauty/personal-care/face-personal-care"
+							"path": "/sections/beauty/personal-care/face-personal-care"
 						},
 						{
 							"id": 5,
 							"name": "Hands & Feet",
-							"path": "/beauty/personal-care/hands-feet"
+							"path": "/sections/beauty/personal-care/hands-feet"
 						},
 						{
 							"id": 6,
 							"name": "Oral Health",
-							"path": "/beauty/personal-care/oral-health"
+							"path": "/sections/beauty/personal-care/oral-health"
 						},
 						{
 							"id": 7,
 							"name": "Lip Care",
-							"path": "/beauty/personal-care/lip-care"
+							"path": "/sections/beauty/personal-care/lip-care"
 						},
 						{
 							"id": 8,
 							"name": "Personal Care Tools & Accessories",
-							"path": "/beauty/personal-care/tools-accessories"
+							"path": "/sections/beauty/personal-care/tools-accessories"
 						},
 						{
 							"id": 9,
 							"name": "Senior Care",
-							"path": "/beauty/personal-care/senior-care"
+							"path": "/sections/beauty/personal-care/senior-care"
 						}
 					]
 				},
 				{
 					"id": 7,
 					"name": "Skin Care",
-					"path": "/beauty/skin-care",
+					"path": "/sections/beauty/skin-care",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Aromatherapy",
-							"path": "/beauty/skin-care/aromatherapy"
+							"path": "/sections/beauty/skin-care/aromatherapy"
 						},
 						{
 							"id": 2,
 							"name": "Cleansers",
-							"path": "/beauty/skin-care/cleansers"
+							"path": "/sections/beauty/skin-care/cleansers"
 						},
 						{
 							"id": 3,
 							"name": "Eye Care",
-							"path": "/beauty/skin-care/eye-care"
+							"path": "/sections/beauty/skin-care/eye-care"
 						},
 						{
 							"id": 4,
 							"name": "Face Skin Care",
-							"path": "/beauty/skin-care/face-skin-care"
+							"path": "/sections/beauty/skin-care/face-skin-care"
 						},
-						{ "id": 5, "name": "Masks", "path": "/beauty/skin-care/masks" },
+						{ "id": 5, "name": "Masks", "path": "/sections/beauty/skin-care/masks" },
 						{
 							"id": 6,
 							"name": "Moisturizers",
-							"path": "/beauty/skin-care/moisturizers"
+							"path": "/sections/beauty/skin-care/moisturizers"
 						},
 						{
 							"id": 7,
 							"name": "Sunscreen",
-							"path": "/beauty/skin-care/sunscreen"
+							"path": "/sections/beauty/skin-care/sunscreen"
 						},
 						{
 							"id": 8,
 							"name": "Toners & Serums",
-							"path": "/beauty/skin-care/toners-serums"
+							"path": "/sections/beauty/skin-care/toners-serums"
 						}
 					]
 				},
 				{
 					"id": 8,
 					"name": "Tools & Appliances",
-					"path": "/beauty/tools-appliances",
+					"path": "/sections/beauty/tools-appliances",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Face/Skin Tools",
-							"path": "/beauty/tools-appliances/face-skin-tools"
+							"path": "/sections/beauty/tools-appliances/face-skin-tools"
 						},
 						{
 							"id": 2,
 							"name": "Hair Styling Tools",
-							"path": "/beauty/tools-appliances/hair-styling-tools"
+							"path": "/sections/beauty/tools-appliances/hair-styling-tools"
 						},
 						{
 							"id": 3,
 							"name": "Massage Tools",
-							"path": "/beauty/tools-appliances/massage-tools"
+							"path": "/sections/beauty/tools-appliances/massage-tools"
 						}
 					]
 				}
@@ -407,329 +407,329 @@
 				{
 					"id": 1,
 					"name": "Ayush",
-					"path": "/wellness/ayush",
+					"path": "/sections/wellness/ayush",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Ayurvedic",
-							"path": "/wellness/ayush/ayurvedic"
+							"path": "/sections/wellness/ayush/ayurvedic"
 						},
-						{ "id": 2, "name": "Unani", "path": "/wellness/ayush/unani" },
+						{ "id": 2, "name": "Unani", "path": "/sections/wellness/ayush/unani" },
 						{
 							"id": 3,
 							"name": "Homeopathy",
-							"path": "/wellness/ayush/homeopathy"
+							"path": "/sections/wellness/ayush/homeopathy"
 						},
-						{ "id": 4, "name": "Siddha", "path": "/wellness/ayush/siddha" }
+						{ "id": 4, "name": "Siddha", "path": "/sections/wellness/ayush/siddha" }
 					]
 				},
 				{
 					"id": 2,
 					"name": "Fitness",
-					"path": "/wellness/fitness",
+					"path": "/sections/wellness/fitness",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Weight Management",
-							"path": "/wellness/fitness/weight-management"
+							"path": "/sections/wellness/fitness/weight-management"
 						},
 						{
 							"id": 2,
 							"name": "Sports Supplements",
-							"path": "/wellness/fitness/sports-supplements"
+							"path": "/sections/wellness/fitness/sports-supplements"
 						},
 						{
 							"id": 3,
 							"name": "Vitamin And Supplements",
-							"path": "/wellness/fitness/vitamins-supplements"
+							"path": "/sections/wellness/fitness/vitamins-supplements"
 						},
 						{
 							"id": 4,
 							"name": "Health Specific",
-							"path": "/wellness/fitness/health-specific"
+							"path": "/sections/wellness/fitness/health-specific"
 						},
 						{
 							"id": 5,
 							"name": "Nutrition Drinks",
-							"path": "/wellness/fitness/nutrition-drinks"
+							"path": "/sections/wellness/fitness/nutrition-drinks"
 						}
 					]
 				},
 				{
 					"id": 3,
 					"name": "Personal Care",
-					"path": "/wellness/personal-care",
+					"path": "/sections/wellness/personal_care",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Home & Health",
-							"path": "/wellness/personal-care/home-health"
+							"path": "/sections/wellness/personal_care/home-health"
 						},
 						{
 							"id": 2,
 							"name": "Senior Care",
-							"path": "/wellness/personal-care/senior-care"
+							"path": "/sections/wellness/personal_care/senior_care"
 						},
 						{
 							"id": 3,
 							"name": "Face Personal Care",
-							"path": "/wellness/personal-care/face-personal-care"
+							"path": "/sections/wellness/personal_care/face_personal_care"
 						},
 						{
 							"id": 4,
 							"name": "Hands & Feet",
-							"path": "/wellness/personal-care/hands-feet"
+							"path": "/sections/wellness/personal_care/hands_feet"
 						},
 						{
 							"id": 5,
 							"name": "Oral Care",
-							"path": "/wellness/personal-care/oral-care"
+							"path": "/sections/wellness/personal_care/oral_care"
 						},
 						{
 							"id": 6,
 							"name": "Bath & Shower",
-							"path": "/wellness/personal-care/bath-shower"
+							"path": "/sections/wellness/personal_care/bath_shower"
 						},
 						{
 							"id": 7,
 							"name": "Body Care",
-							"path": "/wellness/personal-care/body-care"
+							"path": "/sections/wellness/personal_care/body_care"
 						},
 						{
 							"id": 8,
 							"name": "Personal Care Tools & Accessories",
-							"path": "/wellness/personal-care/tools-accessories"
+							"path": "/sections/wellness/personal_care/personal_care_tools"
 						},
 						{
 							"id": 9,
 							"name": "Lip Care",
-							"path": "/wellness/personal-care/lip-care"
+							"path": "/sections/wellness/personal_care/lip_care"
 						},
 						{
 							"id": 10,
 							"name": "Bathing Accessories",
-							"path": "/wellness/personal-care/bathing-accessories"
+							"path": "/sections/wellness/personal_care/bathing_accessories"
 						}
 					]
 				},
 				{
 					"id": 4,
 					"name": "Sexual Wellness",
-					"path": "/wellness/sexual-wellness",
+					"path": "/sections/wellness/sexual-wellness",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Condoms",
-							"path": "/wellness/sexual-wellness/condoms"
+							"path": "/sections/wellness/sexual-wellness/condoms"
 						},
 						{
 							"id": 2,
 							"name": "Massager/Vibrators",
-							"path": "/wellness/sexual-wellness/massagers-vibrators"
+							"path": "/sections/wellness/sexual-wellness/massagers-vibrators"
 						},
 						{
 							"id": 3,
 							"name": "Sexual Health Supplements",
-							"path": "/wellness/sexual-wellness/sexual-health-supplements"
+							"path": "/sections/wellness/sexual-wellness/sexual-health-supplements"
 						},
 						{
 							"id": 4,
 							"name": "Lubricants",
-							"path": "/wellness/sexual-wellness/lubricants"
+							"path": "/sections/wellness/sexual-wellness/lubricants"
 						},
 						{
 							"id": 5,
 							"name": "Intimate Tools & Accessories",
-							"path": "/wellness/sexual-wellness/intimate-tools-accessories"
+							"path": "/sections/wellness/sexual-wellness/intimate-tools-accessories"
 						}
 					]
 				},
 				{
 					"id": 5,
 					"name": "Mom & Baby",
-					"path": "/wellness/mom-and-baby",
+					"path": "/sections/wellness/mom-and-baby",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Baby Care",
-							"path": "/wellness/mom-baby/baby-care"
+							"path": "/sections/wellness/mom-and-baby/baby_care"
 						},
 						{
 							"id": 2,
 							"name": "Baby Bathtime",
-							"path": "/wellness/mom-baby/baby-bathtime"
+							"path": "/sections/wellness/mom-and-baby/baby_bathtime"
 						},
 						{
 							"id": 3,
 							"name": "Feminine Hygiene",
-							"path": "/wellness/mom-baby/feminine-hygiene"
+							"path": "/sections/wellness/mom-and-baby/feminine_hygiene"
 						},
 						{
 							"id": 4,
 							"name": "Maternity Care",
-							"path": "/wellness/mom-baby/maternity-care"
+							"path": "/sections/wellness/mom-and-baby/maternity_care"
 						}
 					]
 				},
 				{
 					"id": 6,
 					"name": "Diabetes Support",
-					"path": "/wellness/diabetes-support",
+					"path": "/sections/wellness/diabetes-support",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Sugar Substitutes",
-							"path": "/wellness/diabetes-support/sugar-substitutes"
+							"path": "/sections/wellness/diabetes-support/sugar-substitutes"
 						},
 						{
 							"id": 2,
 							"name": "Diabetes Management Supplements",
-							"path": "/wellness/diabetes-support/management-supplements"
+							"path": "/sections/wellness/diabetes-support/management-supplements"
 						},
 						{
 							"id": 3,
 							"name": "Diabetes Care Ayurveda",
-							"path": "/wellness/diabetes-support/ayurveda"
+							"path": "/sections/wellness/diabetes-support/ayurveda"
 						},
 						{
 							"id": 4,
 							"name": "Lancets & Test Strips",
-							"path": "/wellness/diabetes-support/lancets-test-strips"
+							"path": "/sections/wellness/diabetes-support/lancets-test-strips"
 						}
 					]
 				},
 				{
 					"id": 7,
 					"name": "Devices",
-					"path": "/wellness/devices",
+					"path": "/sections/wellness/devices",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Orthopaedics",
-							"path": "/wellness/devices/orthopaedics"
+							"path": "/sections/wellness/devices/orthopaedics"
 						},
 						{
 							"id": 2,
 							"name": "Measurements",
-							"path": "/wellness/devices/measurements"
+							"path": "/sections/wellness/devices/measurements"
 						},
 						{
 							"id": 3,
 							"name": "Surgical Accessories",
-							"path": "/wellness/devices/surgical-accessories"
+							"path": "/sections/wellness/devices/surgical-accessories"
 						}
 					]
 				},
 				{
 					"id": 8,
 					"name": "Surgical",
-					"path": "/wellness/surgical",
+					"path": "/sections/wellness/surgical",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Respiratory Supplies",
-							"path": "/wellness/surgical/respiratory-supplies"
+							"path": "/sections/wellness/surgical/respiratory-supplies"
 						},
 						{
 							"id": 2,
 							"name": "Surgical Consumables",
-							"path": "/wellness/surgical/consumables"
+							"path": "/sections/wellness/surgical/consumables"
 						},
 						{
 							"id": 3,
 							"name": "IV Infusion",
-							"path": "/wellness/surgical/iv-infusion"
+							"path": "/sections/wellness/surgical/iv-infusion"
 						},
 						{
 							"id": 4,
 							"name": "Surgical Instrument",
-							"path": "/wellness/surgical/instruments"
+							"path": "/sections/wellness/surgical/instruments"
 						},
 						{
 							"id": 5,
 							"name": "Dressing",
-							"path": "/wellness/surgical/dressing"
+							"path": "/sections/wellness/surgical/dressing"
 						}
 					]
 				},
 				{
 					"id": 9,
 					"name": "Treatements",
-					"path": "/wellness/treatments",
+					"path": "/sections/wellness/treatments",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Cough & Cold",
-							"path": "/wellness/treatments/cough-cold"
+							"path": "/sections/wellness/treatments/cough-cold"
 						},
 						{
 							"id": 2,
 							"name": "First Aid",
-							"path": "/wellness/treatments/first-aid"
+							"path": "/sections/wellness/treatments/first-aid"
 						},
 						{
 							"id": 3,
 							"name": "Pain Relief Applications",
-							"path": "/wellness/treatments/pain-relief"
+							"path": "/sections/wellness/treatments/pain-relief"
 						},
 						{
 							"id": 4,
 							"name": "Skin Treatment",
-							"path": "/wellness/treatments/skin-treatment"
+							"path": "/sections/wellness/treatments/skin-treatment"
 						},
 						{
 							"id": 5,
 							"name": "Smoking Cessation",
-							"path": "/wellness/treatments/smoking-cessation"
+							"path": "/sections/wellness/treatments/smoking-cessation"
 						},
 						{
 							"id": 6,
 							"name": "GI Care",
-							"path": "/wellness/treatments/gi-care"
+							"path": "/sections/wellness/treatments/gi-care"
 						},
 						{
 							"id": 7,
 							"name": "Urinary Care",
-							"path": "/wellness/treatments/urinary-care"
+							"path": "/sections/wellness/treatments/urinary-care"
 						},
 						{
 							"id": 8,
 							"name": "Wound Treatment",
-							"path": "/wellness/treatments/wound-treatment"
+							"path": "/sections/wellness/treatments/wound-treatment"
 						}
 					]
 				},
 				{
 					"id": 10,
 					"name": "Eyeware",
-					"path": "/wellness/eyeware",
+					"path": "/sections/wellness/eyeware",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Eye Glasses",
-							"path": "/wellness/eyewear/eye-glasses"
+							"path": "/sections/wellness/eyewear/eye-glasses"
 						},
 						{
 							"id": 2,
 							"name": "Contact Lenses (EW)",
-							"path": "/wellness/eyewear/contact-lenses-ew"
+							"path": "/sections/wellness/eyewear/contact-lenses-ew"
 						}
 					]
 				},
 				{
 					"id": 11,
 					"name": "Veterinary",
-					"path": "/wellness/veterinary",
+					"path": "/sections/wellness/veterinary",
 					"subcategories": [
 						{
 							"id": 1,
 							"name": "Petcare",
-							"path": "/wellness/veterinary/petcare"
+							"path": "/sections/wellness/ petcare"
 						},
 						{
 							"id": 2,
 							"name": "Farm Animals",
-							"path": "/wellness/veterinary/farm-animals"
+							"path": "/sections/wellness/veterinary/farm-animals"
 						}
 					]
 				}
@@ -744,37 +744,37 @@
 				{
 					"id": 1,
 					"name": "Health Library",
-					"path": "/health-care/health-library"
+					"path": "/sections/health-care/health-library"
 				},
 				{
 					"id": 2,
 					"name": "Diabetes Hub",
-					"path": "/health-care/diabetes-hub"
+					"path": "/sections/health-care/diabetes-hub"
 				},
 				{
 					"id": 3,
 					"name": "Blood Pressure Hub",
-					"path": "/health-care/blood-pressure-hub"
+					"path": "/sections/health-care/blood-pressure-hub"
 				},
 				{
 					"id": 4,
 					"name": "Winter Wellness Hub",
-					"path": "/health-care/winter-wellness-hub"
+					"path": "/sections/health-care/winter-wellness-hub"
 				},
 				{
 					"id": 5,
 					"name": "All About Cancers",
-					"path": "/health-care/cancer-awareness"
+					"path": "/sections/health-care/cancer-awareness"
 				},
 				{
 					"id": 6,
 					"name": "Corona Awareness",
-					"path": "/health-care/corona-awareness"
+					"path": "/sections/health-care/corona-awareness"
 				},
 				{
 					"id": 7,
 					"name": "Selfcare Tools",
-					"path": "/health-care/selfcare-tools"
+					"path": "/sections/health-care/selfcare-tools"
 				}
 			]
 		},

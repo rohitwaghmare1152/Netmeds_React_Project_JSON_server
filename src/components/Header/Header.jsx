@@ -39,10 +39,10 @@ function Header() {
 							className="w-full md:w-96 pb-1 focus:outline-none focus:ring-0 focus:border-gray-300 placeholder:text-sm placeholder:text-gray-600 placeholder:font-semibold"
 						/>
 					</div>
-					<div className="hidden md:block p-2 hover:bg-sky-200 hover:rounded-4xl cursor-pointer">
-						<Link to={"/cart"}>
-							<PiShoppingCartSimpleFill className="w-6 h-6 text-black" />
-							{count}
+					<div className="relative hidden md:block p-2 hover:bg-sky-200 hover:rounded-4xl cursor-pointer">
+						<Link to={"/cart"} className="flex items-center font-bold text-blue-100 [text-decoration:none!important]">
+							<PiShoppingCartSimpleFill className="w-6 h-6 m-1 text-black" />
+							<span className="self-start absolute top-0 right-0 text-sm text-white bg-red-500 px-1 rounded-xl"> {count} </span>
 						</Link>
 					</div>
 					<div className="flex items-center hidden md:block">

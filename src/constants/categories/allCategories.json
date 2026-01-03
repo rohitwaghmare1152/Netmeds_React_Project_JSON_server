@@ -4,184 +4,183 @@
 			"id": 1,
 			"name": "Devices",
 			"image": "/images/allCategories/devices.png",
-			"path": "devices"
+			"path": "/sections/devices"
 		},
 		{
 			"id": 2,
 			"name": "Surgicals",
 			"image": "/images/allCategories/surgicals.png",
-			"path": "surgicals"
+			"path": "/sections/wellness/surgical"
 		},
 		{
 			"id": 3,
 			"name": "Diabetes",
 			"image": "/images/allCategories/diabetes.png",
-			"path": "diabetes"
+			"path": "/sections/wellness/diabetes-support"
 		},
 		{
 			"id": 4,
 			"name": "Makeup",
 			"image": "/images/allCategories/makeup.png",
-			"path": "makeup"
+			"path": "/sections/beauty/make-up"
 		},
 		{
 			"id": 5,
 			"name": "Fitness",
 			"image": "/images/allCategories/fitness.png",
-			"path": "fitness"
+			"path": "/sections/wellness/fitness"
 		},
 		{
 			"id": 6,
 			"name": "Sexual Wellness",
 			"image": "/images/allCategories/sexual_wellness.png",
-			"path": "sexual-wellness"
+			"path": "/sections/wellness/sexual-wellness"
 		},
 		{
 			"id": 7,
 			"name": "Ayush",
 			"image": "/images/allCategories/ayush.png",
-			"path": "ayush"
+			"path": "/sections/wellness/ayush"
 		},
 		{
 			"id": 8,
 			"name": "Personal Care",
 			"image": "/images/allCategories/personal_care.png",
-			"path": "personal-care"
+			"path": "/sections/wellness/personal-care"
 		},
 		{
 			"id": 9,
 			"name": "Derma Cosmetics",
 			"image": "/images/allCategories/derma_cosmetics.png",
-			"path": "derma-cosmetics"
+			"path": "/sections/beauty/derma-cosmetics"
 		},
 		{
 			"id": 10,
 			"name": "Hair Care",
 			"image": "/images/allCategories/hair_care.png",
-			"path": "hair-care"
+			"path": "/sections/beauty/hair/hair-care"
 		},
 		{
 			"id": 11,
 			"name": "Fragrances",
 			"image": "/images/allCategories/fragrances.png",
-			"path": "fragrances"
+			"path": "/sections/beauty/fragrances"
 		},
 		{
 			"id": 12,
 			"name": "Mom & Baby",
 			"image": "/images/allCategories/mom_baby.png",
-			"path": "mom-baby"
+			"path": "/sections/beauty/mom-baby"
 		},
 		{
 			"id": 13,
 			"name": "Vitamin Store",
 			"image": "/images/allCategories/vitamin_store.png",
-			"path": "vitamin-store"
+			"path": "/sections/wellness/fitness/vitamins-supplements"
 		},
 		{
 			"id": 14,
 			"name": "Men's Grooming",
 			"image": "/images/allCategories/mens_grooming.png",
-			"path": "mens-grooming"
+			"path": "/sections/beauty/mens-grooming"
 		},
 		{
 			"id": 15,
 			"name": "Treatments",
 			"image": "/images/allCategories/treatments.png",
-			"path": "treatments"
+			"path": "/sections/wellness/treatments"
 		},
 		{
 			"id": 16,
 			"name": "Tools & Appliances",
 			"image": "/images/allCategories/tools_appliances.png",
-			"path": "tools-appliances"
+			"path": "/sections/beauty/tools-appliances"
 		},
 		{
 			"id": 17,
 			"name": "Women's Care",
 			"image": "/images/allCategories/womens_care.png",
-			"path": "womens-care"
+			"path": "/sections/beauty/womens-care"
 		},
 		{
 			"id": 18,
 			"name": "Elderly Care",
 			"image": "/images/allCategories/elderly_care.png",
-			"path": "elderly-care"
+			"path": "/sections/wellness/personal-care/senior-care"
 		}
 	],
 	"topCategories": [
 		{
 			"id": 1,
 			"name": "Medicines",
-			"subCategories": "wellness",
 			"image": "/images/allCategories/topCategories/medicines.png",
-			"path": "medicines"
+			"path": "/medicine"
 		},
 		{
 			"id": 2,
 			"name": "Devices",
 			"image": "/images/allCategories/topCategories/devices.png",
-			"path": "devices"
+			"path": "/sections/devices"
 		},
 		{
 			"id": 3,
 			"name": "Personal Care",
 			"image": "/images/allCategories/topCategories/personal.png",
-			"path": "personal-care"
+			"path": "/wellness/personal_care"
 		},
 		{
 			"id": 4,
 			"name": "Surgicals",
 			"image": "/images/allCategories/topCategories/surgicals.png",
-			"path": "surgicals"
+			"path": "/wellness/surgicals"
 		},
 		{
 			"id": 5,
 			"name": "Sexual Wellness",
 			"image": "/images/allCategories/topCategories/wellness.png",
-			"path": "sexual-wellness"
+			"path": "/wellness/sexual-wellness"
 		},
 		{
 			"id": 6,
 			"name": "Fitness",
 			"image": "/images/allCategories/topCategories/fitness.png",
-			"path": "Fitness"
+			"path": "/wellness/fitness"
 		},
 		{
 			"id": 7,
 			"name": "Petcare",
 			"image": "/images/allCategories/topCategories/petcare.png",
-			"path": "petcare"
+			"path": "/wellness/veterinary/petcare"
 		},
 		{
 			"id": 8,
 			"name": "Eyewear",
 			"image": "/images/allCategories/topCategories/eyeware.png",
-			"path": "eyewear"
+			"path": "/wellness/eyewear"
 		},
 		{
 			"id": 9,
 			"name": "Homeopathy",
 			"image": "/images/allCategories/topCategories/homeopathy.png",
-			"path": "homeopathy"
+			"path": "/sections/homeopathy"
 		},
 		{
 			"id": 10,
 			"name": "Treatments",
 			"image": "/images/allCategories/topCategories/treatments.png",
-			"path": "treatments" 
+			"path": "/wellness/treatments" 
 		},
 		{
 			"id": 11,
 			"name": "Ayush",
 			"image": "/images/allCategories/topCategories/ayush.png",
-			"path": "ayush"
+			"path": "/wellness/ayush"
 		},
 		{
 			"id": 12,
 			"name": "Mom & Baby",
 			"image": "/images/allCategories/topCategories/mom&baby.png",
-			"path": "mom-and-baby"
+			"path": "/sections/wellness/mom-and-baby"
 		}
 	],
 	"beautyCategories": [
@@ -189,49 +188,49 @@
 			"id": 1,
 			"name": "Make-Up",
 			"image": "/images/allCategories/beautyCategories/make_up.png",
-			"path": "make-up"
+			"path": "/sections/beauty/make-up"
 		},
 		{
 			"id": 2,
 			"name": "Fragrances",
 			"image": "/images/allCategories/beautyCategories/fragrances.png",
-			"path": "fragrances"
+			"path": "/sections/beauty/fragrances"
 		},
 		{
 			"id": 3,
 			"name": "Hair Care",
 			"image": "/images/allCategories/beautyCategories/hair_care.png",
-			"path": "hair-care"
+			"path": "/sections/beauty/hair/hair-care"
 		},
 		{
 			"id": 4,
 			"name": "Derma Cosmetics",
 			"image": "/images/allCategories/beautyCategories/derma_cosmetics.png",
-			"path": "derma-cosmetics"
+			"path": "/sections/beauty/derma-cosmetics"
 		},
 		{
 			"id": 5,
 			"name": "Personal Care",
 			"image": "/images/allCategories/beautyCategories/personal_care.png",
-			"path": "personal-care"
+			"path": "/sections/beauty/-care"
 		},
 		{
 			"id": 6,
 			"name": "Skin Care",
 			"image": "/images/allCategories/beautyCategories/skin_care.png",
-			"path": "skin-care"
+			"path": "/sections/beauty/skin-care"
 		},
 		{
 			"id": 7,
 			"name": "Fragrances",
 			"image": "/images/allCategories/beautyCategories/fragrances.png",
-			"path": "fragrances"
+			"path": "/sections/beauty/fragrances"
 		},
 		{
 			"id": 8,
 			"name": "Tools & Appliances",
 			"image": "/images/allCategories/beautyCategories/tools_appliances.png",
-			"path": "tools-appliances"
+			"path": "/sections/beauty/tools-appliances"
 		}
 	],
 	"wellness": [
@@ -239,73 +238,73 @@
 			"id": 1,
 			"name": "Mens Grooming",
 			"image": "/images/allCategories/wellness/mens_grooming.png",
-			"path": "mens-grooming"
+			"path": "/sections/mens-grooming"
 		},
 		{
 			"id": 2,
 			"name": "Womens Care",
 			"image": "/images/allCategories/wellness/womens_care.png",
-			"path": "womens-care"
+			"path": "/sections/womens-care"
 		},
 		{
 			"id": 3,
 			"name": "Eyewear",
 			"image": "/images/allCategories/wellness/eyewear.png",
-			"path": "eyewear"
+			"path": "/sections/wellness/eyewear"
 		},
 		{
 			"id": 4,
 			"name": "Ayush",
 			"image": "/images/allCategories/wellness/ayush.png",
-			"path": "ayush"
+			"path": "/sections/wellness/ayush"
 		},
 		{
 			"id": 5,
 			"name": "Fitness",
 			"image": "/images/allCategories/wellness/fitness.png",
-			"path": "fitness"
+			"path": "/sections/wellness/fitness"
 		},
 		{
 			"id": 6,
 			"name": "Devices",
 			"image": "/images/allCategories/wellness/devices.png",
-			"path": "devices"
+			"path": "/sections/devices"
 		},
 		{
 			"id": 7,
 			"name": "Diabetes Care",
 			"image": "/images/allCategories/wellness/diabetes_care.png",
-			"path": "diabetes-care"
+			"path": "/sections/diabetes-care"
 		},
 		{
 			"id": 8,
 			"name": "Sexual Wellness",
 			"image": "/images/allCategories/wellness/sexual_wellness.png",
-			"path": "sexual-wellness"
+			"path": "/sections/sexual-wellness"
 		},
 		{
 			"id": 9,
 			"name": "Senior Care",
 			"image": "/images/allCategories/wellness/senior_care.png",
-			"path": "senior-care"
+			"path": "/sections/senior-care"
 		},
 		{
 			"id": 10,
 			"name": "Surgicals",
 			"image": "/images/allCategories/wellness/surgicals.png",
-			"path": "surgicals"
+			"path": "/sections/surgicals"
 		},
 		{
 			"id": 11,
 			"name": "Treatments",
 			"image": "/images/allCategories/wellness/treatments.png",
-			"path": "treatments"
+			"path": "/sections/treatments"
 		},
 		{
 			"id": 12,
 			"name": "Nutraceuticals",
 			"image": "/images/allCategories/wellness/nutraceuticals.png",
-			"path": "nutraceuticals"
+			"path": "/sections/nutraceuticals"
 		}
 	],
 	"popularBrand": [
@@ -313,31 +312,31 @@
 			"id": 1,
 			"name": "Himalaya",
 			"image": "/images/allCategories/popularBrands/himalaya.png",
-			"path": "himalaya"
+			"path": "/sections/himalaya"
 		},
 		{
 			"id": 2,
 			"name": "Baidyanath",
 			"image": "/images/allCategories/popularBrands/baidyanath.png",
-			"path": "baidyanath"
+			"path": "/sections/baidyanath"
 		},
 		{
 			"id": 3,
 			"name": "Lakme",
 			"image": "/images/allCategories/popularBrands/lakme.png",
-			"path": "lakme"
+			"path": "/sections/lakme"
 		},
 		{
 			"id": 4,
 			"name": "Horlicks",
 			"image": "/images/allCategories/popularBrands/horlicks.png",
-			"path": "horlicks"
+			"path": "/sections/horlicks"
 		},
 		{
 			"id": 5,
 			"name": "Dabur",
 			"image": "/images/allCategories/popularBrands/dabur.png",
-			"path": "dabur"
+			"path": "/sections/dabur"
 		}
 	]
 }
