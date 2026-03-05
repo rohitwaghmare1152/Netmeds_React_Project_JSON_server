@@ -11,7 +11,8 @@ export const addCartItem = async (product) => {
 };
 
 export const updateCartItem = async (id, data) => {
-    const res = await axiosInstance.put(`/cart/${id}`, data)
+    const res = await axiosInstance.put(`/cart/${id}`, data);
+    return res.data
 }
 export const removeCartItem = async (id) => {
     const res = await axiosInstance.delete(`/cart/${id}`);

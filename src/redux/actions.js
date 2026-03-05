@@ -41,25 +41,27 @@ export const getCart = createAsyncThunk(
 export const addToCart = createAsyncThunk(
     "cart/addToCart",
     async (product, { getState }) => {
-        const { cart } = getState().cart; 
-        const existing = cart.find((item) => item.id === product.id)
-        console.log(product);
-        
+        const cart = getState().cart.cart;
+
+        const existing = cart.find(
+            (item) => item.id === product.product_id
+        );
+
         if (existing) {
-            return await updateCartItem(existing.id, {
+            return await updateCartItem(product.product_id, {
                 ...existing,
                 quantity: existing.quantity + 1,
-                totalPrice: (existing.quantity + 1)*existing.price
+                totalPrice: (existing.quantity + 1) * existing.price,
             });
-        } else {
-            return await addCartItem({
-                id: product.id,
-                name: product.name,
-                price: product.price,
-                quantity: 1,
-                totalPrice: (product.quantity ? product.price*product.quantity : product.price)
-            }) 
         }
+
+        return await addCartItem({
+            id: product.product_id, // ✅ FORCED ID
+            name: product.name,
+            price: product.price,
+            quantity: 1,
+            totalPrice: product.price,
+        });
     }
 )
 
@@ -70,3 +72,21 @@ export const deleteCart = createAsyncThunk(
         return id;
     }
 )
+
+export const decrementCart = createAsyncThunk(
+    "cart/decrement",
+    async (id, { getState }) => {
+        const item = getState().cart.cart.find((i) => i.id === id);
+
+        if (item.quantity === 1) {
+            await removeCartItem(id);
+            return { id, remove: true };
+        }
+
+        return await updateCartItem(id, {
+            ...item,
+            quantity: item.quantity - 1,
+            totalPrice: (item.quantity - 1) * item.price,
+        });
+    }
+);

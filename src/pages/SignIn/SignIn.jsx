@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import {
 	Card,
 	CardText,
@@ -10,14 +10,20 @@ import {
 	Button,
 	CardBody,
 } from "reactstrap";
+import { useAuth } from "../../hooks/useAuth";
+import { useLocation, useNavigate } from "react-router-dom";
 
-function SingIn() {
+function SignIn() {
+	const { signIn, signOut } = useAuth();
 	const [step, setStep] = useState(1);
 	const [number, setNumber] = useState("");
 	const [captcha, setCaptcha] = useState();
 	const [inputCaptcha, setInputCaptcha] = useState("");
 	const [count, setCount] = useState(60);
 	const [captchaStatus, setCaptchaStatus] = useState(false);
+	const navigate = useNavigate();
+	const location = useLocation();
+	const from = location.state?.from?.pathname || "/";
 
 	const handleNumberChange = (e) => {
 		const value = e.target.value;
@@ -35,6 +41,8 @@ function SingIn() {
 		e.preventDefault();
 		if (inputCaptcha == captcha) {
 			setCaptchaStatus(false);
+			signIn('This-is-my-token', 'User');
+			navigate(from, {replace: true});
 		} else {
 			setCaptchaStatus(true);
 		}
@@ -189,4 +197,4 @@ function SingIn() {
 	);
 }
 
-export default SingIn;
+export default SignIn;

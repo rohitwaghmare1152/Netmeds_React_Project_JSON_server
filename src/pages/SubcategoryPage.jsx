@@ -4,12 +4,21 @@ import {
 	selectProductsBySubcategory,
 	subcategorySelectors,
 } from "../redux/slices/productSelectors";
-import { addToCart, getCart } from "../redux/actions";
+import { selectCart } from "../redux/slices/cartSelectors";
+import { addToCart, decrementCart, getCart } from "../redux/actions";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
+import { useCallback, useMemo } from "react";
+import ProductCard from "../components/ProductCard/ProductCard";
+import FilterSidebar from "../components/FilterSidebar/FilterSidebar";
+import {
+	setSelectedBrands,
+	setPriceRange,
+	setDiscount,
+} from "../redux/slices/filterSlice";
 
 function SubcategoryPage() {
-	const { productId, subcategoryId, categoryId, sectionId } = useParams();
+	const { subcategoryId, categoryId, sectionId } = useParams();
 	const navigate = useNavigate();
 	const dispatch = useDispatch();
 
@@ -17,46 +26,95 @@ function SubcategoryPage() {
 		subcategorySelectors.selectById(state, subcategoryId)
 	);
 
-	const products = useSelector(
-		selectProductsBySubcategory(subcategory ? subcategory.id : () => [])
+	const products = useSelector(selectProductsBySubcategory(subcategory?.id));
+
+	const cart = useSelector((state) => state.cart.cart);
+
+	const filters = useSelector((state) => state.filters);
+
+	const handleAddProduct = useCallback(
+		(product) => {
+			dispatch(addToCart(product));
+		},
+		[dispatch]
 	);
 
-	const handleNavigate = (productId) => {
-		navigate(
-			`/sections/${sectionId}/${categoryId}/${subcategoryId}/${productId}`
-		);
-	};
+	const handleRemoveProduct = useCallback(
+		(cartItem) => {
+			dispatch(decrementCart(cartItem.id));
+		},
+		[dispatch]
+	);
 
-	const handleAddProduct = async (product) => {
-		await dispatch(addToCart(product));
-		dispatch(getCart());
-	};
+	const brands = useMemo(
+		() => [...new Set(products.map((p) => p.manufacturer))],
+		[products]
+	);
 
-	if (!subcategory) return <p>Loading subcategory...</p>;
+	const filteredProducts = useMemo(() => {
+		return products.filter((p) => {
+			const brandMatch =
+				filters.selectedBrands.length === 0 ||
+				filters.selectedBrands.includes(p.manufacturer);
+
+			const priceMatch =
+				p.price >= filters.priceRange[0] && p.price <= filters.priceRange[1];
+
+			const discountValue = Number(p.discount?.replace("%", "")) || 0;
+
+			return brandMatch && priceMatch && discountValue >= filters.discount;
+		});
+	}, [products, filters]);
+
+	const handleBrandChange = useCallback(
+		(brand) => {
+			const updated = filters.selectedBrands.includes(brand)
+				? filters.selectedBrands.filter((b) => b !== brand)
+				: [...filters.selectedBrands, brand];
+
+			dispatch(setSelectedBrands(updated));
+		},
+		[filters.selectedBrands, dispatch]
+	);
 
 	return (
-		<div>
-			<div>
-				<Header />
-			</div>
-			<div>
-				<h3>{subcategory.name}</h3>
+		<div className="bg-gray-50 min-h-screen">
+			<Header />
 
-				{products.map((p) => (
-					<div key={p.product_id}>
-						<p
-							onClick={() => handleNavigate(p.product_id)}
-							style={{ cursor: "pointer" }}
-						>
-							{p.name}
-						</p>
-						<button onClick={() => handleAddProduct(p)}>ADD TO CART</button>
-					</div>
-				))}
+			<div className="max-w-7xl mx-auto px-4 py-6 flex gap-6">
+				<FilterSidebar
+					brands={brands}
+					selectedBrands={filters.selectedBrands}
+					onBrandChange={handleBrandChange}
+					priceRange={filters.priceRange}
+					onPriceChange={(v) => dispatch(setPriceRange(v))}
+					discount={filters.discount}
+					onDiscountChange={(v) => dispatch(setDiscount(v))}
+				/>
+
+				<div className="flex-1 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+					{filteredProducts.map((product) => {
+						const cartItem = cart.find((c) => c.id === product.product_id);
+
+						return (
+							<ProductCard
+								key={product.product_id}
+								product={product}
+								cartItem={cartItem}
+								onAdd={() => handleAddProduct(product)}
+								onRemove={() => handleRemoveProduct(cartItem)}
+								onNavigate={() =>
+									navigate(
+										`/sections/${sectionId}/${categoryId}/${subcategoryId}/${product.product_id}`
+									)
+								}
+							/>
+						);
+					})}
+				</div>
 			</div>
-			<div>
-				<Footer />
-			</div>
+
+			<Footer />
 		</div>
 	);
 }

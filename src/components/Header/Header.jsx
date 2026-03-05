@@ -7,10 +7,14 @@ import { IoIosSearch } from "react-icons/io";
 import { PiShoppingCartSimpleFill } from "react-icons/pi";
 import { FaUser } from "react-icons/fa";
 import { useSelector } from "react-redux";
-import { selectCartCount } from "../../redux/slices/cartSelectors";
+import { useAuth } from "../../hooks/useAuth";
 
 function Header() {
-	const count = useSelector(selectCartCount)
+	const { user,signOut } = useAuth();
+	const handleSignOut = () => {
+		signOut()
+	}
+	const cart = useSelector((state) => state.cart.cart);
 	return (
 		<div className="bg-teal-400">
 			<div className="container flex flex-col md:flex-row items-start md:items-center justify-start md:justify-between p-2">
@@ -40,12 +44,18 @@ function Header() {
 						/>
 					</div>
 					<div className="relative hidden md:block p-2 hover:bg-sky-200 hover:rounded-4xl cursor-pointer">
-						<Link to={"/cart"} className="flex items-center font-bold text-blue-100 [text-decoration:none!important]">
+						<Link
+							to={"/cart"}
+							className="flex items-center font-bold text-blue-100 [text-decoration:none!important]"
+						>
 							<PiShoppingCartSimpleFill className="w-6 h-6 m-1 text-black" />
-							<span className="self-start absolute top-0 right-0 text-sm text-white bg-red-500 px-1 rounded-xl"> {count} </span>
+							<span className="self-start absolute top-0 right-0 text-sm text-white bg-red-500 px-1 rounded-xl">
+								{" "}
+								{cart.length}{" "}
+							</span>
 						</Link>
 					</div>
-					<div className="flex items-center hidden md:block">
+					{!user ? <div className="flex items-center hidden md:block">
 						<Link
 							to={"/auth"}
 							className="flex items-center gap-2.5 px-3 py-2 font-semibold hover:bg-sky-200 hover:rounded-4xl cursor-pointer [text-decoration:none!important] text-black"
@@ -53,7 +63,13 @@ function Header() {
 							<FaUser className="w-5 h-5 text-black rounded-xl" />
 							<span>Sign In</span>
 						</Link>
-					</div>
+					</div>:
+					<div className="flex items-center hidden md:block hover:bg-sky-200 hover:rounded-4xl cursor-pointer">
+						<button onClick={handleSignOut} className="flex items-center gap-2.5 px-3 py-2 font-semibold cursor-pointer [text-decoration:none!important] text-black">
+							<FaUser className="w-5 h-5 text-black rounded-xl" />
+							<span>Sign Out</span>
+						</button>
+					</div>}
 				</div>
 			</div>
 			<div className="hidden md:block">
